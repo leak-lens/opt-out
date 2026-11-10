@@ -1,0 +1,87 @@
+{
+  "id": "uz-pdl",
+  "name": "Uzbekistan Personal Data Law",
+  "law": "Law of the Republic of Uzbekistan No. ZRU-547 of 2 July 2019 \"On Personal Data\" (as amended)",
+  "jurisdictions": [
+    "UZ"
+  ],
+  "letterLangs": [
+    "en",
+    "uz",
+    "ru"
+  ],
+  "deadline": {
+    "days": 10,
+    "text": "A written response or refusal must be provided within 10 days; corrections to inaccurate data must be made within 3 days of receipt of the request.",
+    "citation": "Articles 11 and 22 of Law No. ZRU-547"
+  },
+  "authorities": {
+    "UZ": {
+      "name": "State Inspectorate for Control in the Field of Informatization and Telecommunications of the Republic of Uzbekistan (Uzkomnazorat) / O'zkomnazorat",
+      "url": "https://gis.uz/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 30 of the Law of the Republic of Uzbekistan \"On Personal Data\"",
+        "uz": "\"Shaxsga doir ma'lumotlar to'g'risida\"gi O'zbekiston Respublikasi Qonunining 30-moddasi",
+        "ru": "ст. 30 Закона Республики Узбекистан «О персональных данных»"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and provide me with information about the processing, including the data processed, the purposes and the legal basis of the processing, the source of the data and the persons to whom it has been disclosed.",
+        "uz": "Sizda mening shaxsga doir ma'lumotlarim mavjudligi va ularga ishlov berilishi to'g'risida axborot berishingizni, jumladan ma'lumotlar tarkibi, ishlov berish maqsadlari va usullari, shuningdek ular berilgan shaxslar haqida ma'lumot taqdim etishingizni talab qilaman.",
+        "ru": "Прошу подтвердить, обрабатываются ли мои персональные данные, и предоставить информацию об их обработке: перечень данных, цели и правовые основания обработки, источник получения данных и лиц, которым они передавались."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Articles 11 and 30 of the Law of the Republic of Uzbekistan \"On Personal Data\"",
+        "uz": "\"Shaxsga doir ma'lumotlar to'g'risida\"gi O'zbekiston Respublikasi Qonunining 11 va 30-moddalari",
+        "ru": "ст. 11 и 30 Закона Республики Узбекистан «О персональных данных»"
+      },
+      "text": {
+        "en": "Please correct the inaccurate or incomplete personal data you hold about me, as specified in this request, and notify me in writing once the changes have been made.",
+        "uz": "Ushbu murojaatga asosan sizda saqlanayotgan mening noaniq yoki to'liq bo'lmagan shaxsga doir ma'lumotlarimga o'zgartirish kiritishingizni va 3 kunlik muddatda bu haqda menga yozma xabar berishingizni talab qilaman.",
+        "ru": "Прошу исправить неточные или неполные персональные данные обо мне в соответствии с настоящим обращением и письменно уведомить меня о внесённых изменениях."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Articles 30 and 31 of the Law of the Republic of Uzbekistan \"On Personal Data\"",
+        "uz": "\"Shaxsga doir ma'lumotlar to'g'risida\"gi O'zbekiston Respublikasi Qonunining 30 va 31-moddalari",
+        "ru": "ст. 30 и 31 Закона Республики Узбекистан «О персональных данных»"
+      },
+      "text": {
+        "en": "I request that you suspend the processing of my personal data and destroy it, because it is incomplete, outdated, inaccurate, unlawfully obtained or no longer necessary, and that you confirm this to me in writing.",
+        "uz": "Mening shaxsga doir ma'lumotlarimga ishlov berishni to'xtatishingizni hamda ularni yo'q qilishingizni (chunki ular to'liq emas, eskirgan, noqonuniy olingan yoki maqsad uchun zarur emas) va bu haqda yozma tasdiqnoma berishingizni talab qilaman.",
+        "ru": "Прошу приостановить обработку моих персональных данных и уничтожить их, поскольку они являются неполными, устаревшими, неточными, полученными незаконным путём либо более не необходимыми, и письменно подтвердить это."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Articles 21 and 30 of the Law of the Republic of Uzbekistan \"On Personal Data\"",
+        "uz": "\"Shaxsga doir ma'lumotlar to'g'risida\"gi O'zbekiston Respublikasi Qonunining 21 va 30-moddalari",
+        "ru": "ст. 21 и 30 Закона Республики Узбекистан «О персональных данных»"
+      },
+      "text": {
+        "en": "I hereby withdraw the consent I gave for the processing of my personal data. Please stop the processing based on that consent, destroy my data and confirm this to me in writing.",
+        "uz": "Shaxsga doir ma'lumotlarimga ishlov berish uchun bergan roziligimni qaytarib olaman. Ushbu rozilik asosida ma'lumotlarni qayta ishlashni to'xtatishingizni, ma'lumotlarimni yo'q qilishingizni va bu haqda yozma tasdiqlashingizni talab qilaman.",
+        "ru": "Настоящим отзываю данное мной согласие на обработку персональных данных. Прошу прекратить обработку, основанную на этом согласии, уничтожить мои данные и письменно подтвердить это."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Law of the Republic of Uzbekistan \"On Personal Data\" (Lex.uz, national legal database)",
+      "url": "https://lex.uz/docs/4396428"
+    },
+    {
+      "title": "State Inspectorate Uzkomnazorat (gis.uz)",
+      "url": "https://gis.uz/"
+    }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Verified against the official Lex.uz national database (Law No. ZRU-547). Article 30 defines data subject rights. Article 11 requires operators to make changes within 3 days. Uzkomnazorat is the designated supervisory authority."
+}

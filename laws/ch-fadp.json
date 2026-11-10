@@ -1,0 +1,57 @@
+{
+  "id": "ch-fadp",
+  "name": "Swiss FADP",
+  "law": "Federal Act on Data Protection (FADP) of 25 September 2020, SR 235.1, in force since 1 September 2023",
+  "jurisdictions": ["CH"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 30,
+    "text": "In general within 30 days of receipt of the request. If the information cannot be provided within 30 days, the controller must tell you by when it will be provided. Information is generally free of charge.",
+    "citation": "Art. 25(6) and (7) FADP"
+  },
+  "authorities": {
+    "CH": {
+      "name": "Federal Data Protection and Information Commissioner (FDPIC)",
+      "url": "https://www.edoeb.admin.ch/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Article 25 of the Swiss Federal Act on Data Protection (FADP)" },
+      "text": {
+        "en": "Please confirm whether you process personal data about me and provide me with the information required to exercise my rights under the FADP, including the personal data processed, the purpose of the processing, the retention period, the origin of the data and the recipients."
+      }
+    },
+    "rectification": {
+      "cite": { "en": "Article 32(1) of the Swiss Federal Act on Data Protection (FADP)" },
+      "text": {
+        "en": "Please correct the inaccurate personal data you hold about me, as specified in this request, and notify me in writing once this has been done. Where the accuracy cannot be established, please mark the data as disputed."
+      }
+    },
+    "erasure": {
+      "cite": { "en": "Article 32(2) of the Swiss Federal Act on Data Protection (FADP), in conjunction with Articles 28 to 28l of the Swiss Civil Code" },
+      "text": {
+        "en": "Please delete or destroy the personal data you hold about me and stop disclosing it to third parties, and confirm in writing once this has been done."
+      }
+    },
+    "portability": {
+      "cite": { "en": "Article 28 of the Swiss Federal Act on Data Protection (FADP)" },
+      "text": {
+        "en": "Please provide the personal data I have disclosed to you, and that you process automatically on the basis of my consent or a contract, in a conventional electronic format. Where this does not require disproportionate effort, please transfer it to the controller I designate."
+      }
+    },
+    "objection": {
+      "cite": { "en": "Articles 30(2)(b) and 32(2) of the Swiss Federal Act on Data Protection (FADP)" },
+      "text": {
+        "en": "I expressly object to the processing of my personal data for the purposes specified in this request. Please stop this processing and not disclose my data to third parties, and confirm this in writing."
+      }
+    }
+  },
+  "sources": [
+    { "title": "Federal Act on Data Protection, SR 235.1 (Fedlex, official publication platform)", "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en" },
+    { "title": "Federal Data Protection and Information Commissioner (FDPIC)", "url": "https://www.edoeb.admin.ch/" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article numbers (25, 26, 28, 30(2), 32) were read from the English text on lawbrary.ch (a non-official mirror); Fedlex could not be fetched in this session, hence needs-review. The FADP has no free-standing right to erasure or objection: they are enforced via Art. 32(2) FADP and the Civil Code, and via the 'express wishes' ground in Art. 30(2)(b), so the cites are broader than in the GDPR. The FADP has no express article on consent withdrawal, so no withdraw type is included. The controller may refuse, restrict or delay access on the grounds in Art. 26 FADP (including requests that are obviously unjustified)."
+}

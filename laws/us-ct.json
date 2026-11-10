@@ -1,0 +1,77 @@
+{
+  "id": "us-ct",
+  "name": "Connecticut CTDPA",
+  "law": "Connecticut Data Privacy Act (Conn. Gen. Stat. §§ 42-515 to 42-525), as amended by Public Act 25-113",
+  "jurisdictions": [
+    "US-CT"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": 45,
+    "text": "Within 45 days of receipt of the request, extendable once by a further 45 days where reasonably necessary with notice to you. This 45-day period is from general knowledge of the Act and was not confirmed against the official text.",
+    "citation": "Connecticut Data Privacy Act, consumer rights provisions (verify section number)"
+  },
+  "authorities": {
+    "US-CT": {
+      "name": "Connecticut Office of the Attorney General",
+      "url": "https://portal.ct.gov/ag"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "the Connecticut Data Privacy Act (Conn. Gen. Stat. § 42-515 et seq.), right to confirm processing and access personal data"
+      },
+      "text": {
+        "en": "Please confirm whether you are processing my personal data and, if so, provide me with access to that personal data. Please also provide the information you are required to give in response to such a request."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "the Connecticut Data Privacy Act (Conn. Gen. Stat. § 42-515 et seq.), right to correct inaccuracies"
+      },
+      "text": {
+        "en": "Please correct the inaccuracies in my personal data that you hold, as specified in this request, taking into account the nature of the data and the purposes of the processing. Please confirm in writing once the correction has been made."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "the Connecticut Data Privacy Act (Conn. Gen. Stat. § 42-515 et seq.), right to delete"
+      },
+      "text": {
+        "en": "Please delete the personal data that I provided to you or that you have obtained about me, and confirm in writing once this has been done. Where you rely on a statutory exception to retain any of it, please tell me which one."
+      }
+    },
+    "portability": {
+      "cite": {
+        "en": "the Connecticut Data Privacy Act (Conn. Gen. Stat. § 42-515 et seq.), right to obtain a copy of my data"
+      },
+      "text": {
+        "en": "Please provide me with a copy of the personal data that I previously provided to you, in a portable and, to the extent technically feasible, readily usable format that allows me to transmit it to another controller without hindrance."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "the Connecticut Data Privacy Act (Conn. Gen. Stat. § 42-515 et seq.), right to opt out"
+      },
+      "text": {
+        "en": "I opt out of the processing of my personal data for the purposes of targeted advertising, the sale of my personal data, and profiling in furtherance of decisions that produce legal or similarly significant effects concerning me. Please confirm in writing that you have honored this request."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Connecticut General Statutes, Chapter 743jj (Connecticut Data Privacy Act), as cited in law-firm summaries; official text not reached",
+      "url": "https://www.cga.ct.gov/current/pub/chap_743jj.htm"
+    },
+    {
+      "title": "Connecticut Office of the Attorney General",
+      "url": "https://portal.ct.gov/ag"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "The official cga.ct.gov text could not be fetched, so the individual section number (believed to be Conn. Gen. Stat. § 42-518) and the 45-day deadline are unverified; cites deliberately omit the section number. Public Act 25-113 (SB 1295) amendments, effective 1 July 2026 per law-firm summaries, add rights such as obtaining a list of third parties to which data was sold and an explanation of profiling decisions; these were not added here. Applies to Connecticut residents."
+}

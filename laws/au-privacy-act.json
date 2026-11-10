@@ -1,0 +1,36 @@
+{
+  "id": "au-privacy-act",
+  "name": "Privacy Act (Australia)",
+  "law": "Privacy Act 1988 (Cth), Schedule 1 Australian Privacy Principles (APPs)",
+  "jurisdictions": ["AU"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 30,
+    "text": "Agencies must respond within 30 days. Private-sector organizations must respond within a reasonable period, which the OAIC guidelines treat as generally no more than 30 days. Organizations may not charge for making the request, and any charge for giving access must not be excessive.",
+    "citation": "APP 12.4(a) and APP 13.5(a)"
+  },
+  "authorities": {
+    "AU": {
+      "name": "Office of the Australian Information Commissioner (OAIC)",
+      "url": "https://www.oaic.gov.au/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Australian Privacy Principle 12 (Schedule 1 to the Privacy Act 1988)" },
+      "text": { "en": "Please give me access to all personal information you hold about me. I ask that you respond within 30 days of this request and, if you refuse access in whole or in part, give me written reasons and information on how to complain." }
+    },
+    "rectification": {
+      "cite": { "en": "Australian Privacy Principle 13 (Schedule 1 to the Privacy Act 1988)" },
+      "text": { "en": "Please take reasonable steps to correct the inaccurate, out-of-date, incomplete, irrelevant or misleading personal information you hold about me, as specified in this request. Please also notify any entity to which you previously disclosed the information, and confirm in writing once done." }
+    }
+  },
+  "sources": [
+    { "title": "OAIC: Read the Australian Privacy Principles", "url": "https://www.oaic.gov.au/privacy/australian-privacy-principles/read-the-australian-privacy-principles" },
+    { "title": "OAIC: APP Guidelines, Chapter 12 (access)", "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0019/1288/app-guidelines-chapter-12-v1.1.pdf" },
+    { "title": "Privacy and Other Legislation Amendment Act 2024 (Federal Register of Legislation)", "url": "https://www.legislation.gov.au/C2024A00128/asmade/2024-12-10/text/1/epub/OEBPS/document_1/document_1.html" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Australia has no general right to erasure, portability, objection or consent withdrawal in the Privacy Act, so only access and correction are included. APP 12.4 and 13.5 text (30 days for agencies, reasonable period for organizations) was read on the OAIC site; the 30-day figure for organizations comes from OAIC guidance, not the statute, and the chapter 12 guideline PDF was not opened. The Privacy and Other Legislation Amendment Act 2024 (Dec 2024, tranche 1: statutory tort, new OAIC powers, children's code) does not add erasure rights, but its exact commencement and any tranche 2 reforms enacted by Nov 2026 were not verified. The Act applies to agencies and most organizations with turnover over AUD 3 million (and some smaller ones, such as health providers). Complain to the organization first; the OAIC generally expects that before it investigates."
+}

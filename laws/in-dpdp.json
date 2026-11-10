@@ -1,0 +1,43 @@
+{
+  "id": "in-dpdp",
+  "name": "DPDP Act (India)",
+  "law": "Digital Personal Data Protection Act, 2023 and Digital Personal Data Protection Rules, 2025",
+  "jurisdictions": ["IN"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 90,
+    "text": "The Rules reportedly require a Data Fiduciary to respond to access, correction and erasure requests within 90 days; this was taken from a government (PIB) summary and the rule number was not confirmed. Important: the data principal rights in sections 11 to 15 are not expected to be enforceable until 12 May 2027.",
+    "citation": "DPDP Rules 2025 (rights of Data Principals); commencement per notifications of 13-14 November 2025"
+  },
+  "authorities": {
+    "IN": {
+      "name": "Data Protection Board of India (constituted under the DPDP Act; complain only after the fiduciary's grievance process, s. 13)",
+      "url": "https://www.meity.gov.in/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Section 11 of the Digital Personal Data Protection Act, 2023" },
+      "text": { "en": "Please give me a summary of the personal data you process about me and the processing activities undertaken, the identities of all other Data Fiduciaries and Data Processors with whom you have shared my data and a description of the data shared, and any other information related to my personal data as prescribed." }
+    },
+    "rectification": {
+      "cite": { "en": "Section 12(1) of the Digital Personal Data Protection Act, 2023" },
+      "text": { "en": "Please correct the inaccurate or misleading personal data you hold about me, complete any incomplete data and update it, as specified in this request. Please confirm in writing once this has been done." }
+    },
+    "erasure": {
+      "cite": { "en": "Section 12(3) of the Digital Personal Data Protection Act, 2023" },
+      "text": { "en": "Please erase the personal data you hold about me, unless its retention is necessary for the specified purpose or for compliance with law, and confirm in writing once this has been done." }
+    },
+    "withdraw": {
+      "cite": { "en": "Section 6(4) of the Digital Personal Data Protection Act, 2023" },
+      "text": { "en": "I hereby withdraw the consent I gave for the processing of my personal data. Please stop processing my personal data on the basis of that consent, and cause your Data Processors to do the same, within a reasonable time." }
+    }
+  },
+  "sources": [
+    { "title": "PIB: Digital Personal Data Protection Rules, 2025 explainer", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf" },
+    { "title": "Ministry of Electronics and IT (MeitY)", "url": "https://www.meity.gov.in/" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Section numbers (11, 12, 6(4), 13) come from the task brief and the Act's structure; the Act's official text (MeitY / India Code) was not opened. Commencement dates come from secondary summaries of the 13-14 November 2025 notifications: definitions, Board provisions (ss. 18-26) and Rules 17-21 took effect on 13 November 2025 (the Board was reported as constituted then); Consent Manager provisions take effect on 12 November 2026; and sections 3-17, including all data principal rights (ss. 11-15), take effect on 12 May 2027. Until then a fiduciary has no legal duty to honour these requests, so a letter is a courtesy request. Section 13 requires the fiduciary's grievance process to be used first; the Board hears complaints only afterwards. The Board's own website URL was not verified, so MeitY is given. Section 11 access is a summary and identity list, not a full copy. No portability or objection right exists in the Act."
+}

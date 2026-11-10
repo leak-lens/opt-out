@@ -1,0 +1,87 @@
+/* LeakLens Opt-Out Embeddable Widget */
+.ll-rights {
+  --ll-bg: #111317;
+  --ll-border: #1f2229;
+  --ll-muted: #8b909a;
+  --ll-gold: #d9a74a;
+  --ll-gold-hover: #e8b75c;
+  --ll-text: #e6eaef;
+  --ll-ok: #4ade80;
+  --ll-ok-bg: #112219;
+  --ll-ok-border: #1d432e;
+  --ll-warn: #d9a74a;
+  --ll-warn-bg: #241c10;
+  --ll-warn-border: #4a3518;
+
+  background: var(--ll-bg);
+  border: 1px solid var(--ll-border);
+  border-radius: 4px;
+  padding: 18px;
+  font: 14px/1.55 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--ll-text);
+  box-sizing: border-box;
+}
+
+.ll-rights-title {
+  margin: 0 0 10px;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ll-gold);
+  letter-spacing: -0.01em;
+}
+
+.ll-rights-law {
+  margin-bottom: 12px;
+}
+
+.ll-rights-text {
+  margin: 4px 0 0;
+  color: var(--ll-muted);
+  font-size: 13.5px;
+}
+
+.ll-rights-text a, .ll-rights-law a {
+  color: var(--ll-gold);
+  text-decoration: none;
+}
+
+.ll-rights-text a:hover, .ll-rights-law a:hover {
+  text-decoration: underline;
+}
+
+.ll-rights-status {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  background: var(--ll-warn-bg);
+  border: 1px solid var(--ll-warn-border);
+  color: var(--ll-warn);
+}
+
+.ll-rights-status.ll-official {
+  background: var(--ll-ok-bg);
+  border: 1px solid var(--ll-ok-border);
+  color: var(--ll-ok);
+}
+
+.ll-rights-button {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 9px 16px;
+  border-radius: 3px;
+  background: var(--ll-gold);
+  color: #0b0c0e !important;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.ll-rights-button:hover {
+  background: var(--ll-gold-hover);
+}

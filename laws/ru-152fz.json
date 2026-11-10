@@ -1,0 +1,62 @@
+{
+  "id": "ru-152fz",
+  "name": "Russia 152-FZ",
+  "law": "Federal Law No. 152-FZ of 27 July 2006 \"On Personal Data\" (as amended)",
+  "jurisdictions": ["RU"],
+  "letterLangs": ["en", "ru"],
+  "deadline": {
+    "days": null,
+    "text": "Access: 10 working days from receipt of the request, extendable by up to 5 working days with a reasoned notice. Correction of inaccurate data: 7 working days from the subject's proof. Destruction of unlawfully obtained or unnecessary data: 7 working days from the subject's proof. Demand to stop processing: 10 working days (extendable by 5). After consent is withdrawn and the data is no longer needed: destruction within 30 days.",
+    "citation": "Art. 14(3), Art. 20(1)-(3), Art. 21(5) and (5.1) of Federal Law No. 152-FZ"
+  },
+  "authorities": {
+    "RU": {
+      "name": "Federal Service for Supervision of Communications, Information Technology and Mass Media (Roskomnadzor)",
+      "url": "https://rkn.gov.ru/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Article 14 of Federal Law No. 152-FZ \"On Personal Data\"", "ru": "ст. 14 Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»" },
+      "text": {
+        "en": "Please confirm whether you process my personal data and provide the information listed in Article 14(7), including the data processed and its source, the purposes, methods and retention periods of the processing, the recipients of the data and any cross-border transfers.",
+        "ru": "Прошу подтвердить, обрабатываются ли мои персональные данные, и предоставить сведения, предусмотренные частью 7 статьи 14: перечень обрабатываемых данных и источник их получения, цели, способы и сроки обработки, лиц, получивших доступ к данным, и сведения о трансграничной передаче."
+      }
+    },
+    "rectification": {
+      "cite": { "en": "Articles 14, 20 and 21 of Federal Law No. 152-FZ \"On Personal Data\"", "ru": "ст. 14, 20 и 21 Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»" },
+      "text": {
+        "en": "Please correct the incomplete, outdated or inaccurate personal data you hold about me, as specified in this request, and notify me and any third parties to whom the data was disclosed once this has been done.",
+        "ru": "Прошу уточнить мои персональные данные, поскольку они являются неполными, устаревшими или неточными, в соответствии с настоящим обращением, а также уведомить меня и третьих лиц, которым эти данные были переданы, о внесённых изменениях."
+      }
+    },
+    "erasure": {
+      "cite": { "en": "Articles 14, 20 and 21 of Federal Law No. 152-FZ \"On Personal Data\"", "ru": "ст. 14, 20 и 21 Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»" },
+      "text": {
+        "en": "Please stop processing and destroy my personal data, which is unlawfully obtained or not necessary for the stated purpose of processing, and confirm the destruction to me in writing.",
+        "ru": "Прошу прекратить обработку и уничтожить мои персональные данные, поскольку они получены незаконно или не являются необходимыми для заявленной цели обработки, а также письменно подтвердить их уничтожение."
+      }
+    },
+    "objection": {
+      "cite": { "en": "Article 15 of Federal Law No. 152-FZ \"On Personal Data\"", "ru": "ст. 15 Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»" },
+      "text": {
+        "en": "I object to the processing of my personal data for the purpose of promoting goods, works or services (mailings, calls, messages). Please stop this processing immediately and confirm in writing that you have done so.",
+        "ru": "Возражаю против обработки моих персональных данных в целях продвижения товаров, работ и услуг (рассылки, звонки, сообщения). Прошу немедленно прекратить такую обработку и письменно подтвердить это."
+      }
+    },
+    "withdraw": {
+      "cite": { "en": "Article 9 of Federal Law No. 152-FZ \"On Personal Data\"", "ru": "ст. 9 Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных»" },
+      "text": {
+        "en": "I hereby withdraw the consent to the processing of my personal data that I gave previously. Please stop all processing based on that consent, destroy my data where no other lawful ground applies, and confirm this in writing.",
+        "ru": "Настоящим отзываю ранее данное мной согласие на обработку персональных данных. Прошу прекратить всю обработку, основанную на этом согласии, уничтожить мои данные при отсутствии иных законных оснований и письменно подтвердить это."
+      }
+    }
+  },
+  "sources": [
+    { "title": "Federal Law No. 152-FZ, current consolidated text (ConsultantPlus; articles 14, 20, 21 read here)", "url": "https://www.consultant.ru/document/cons_doc_LAW_61801/" },
+    { "title": "Roskomnadzor (regulator)", "url": "https://rkn.gov.ru/" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article numbers and working-day deadlines were read from the ConsultantPlus consolidated text, not from the official legal portal (publication.pravo.gov.ru), hence needs-review. Art. 9 (consent withdrawal) and Art. 15 (marketing) page text was not opened; only their titles were confirmed. The ConsultantPlus page listed amendments up to Federal Law No. 265-FZ of 26.07.2026 and said a version with not-yet-in-force amendments exists; confirm which edition is in force. A request under Art. 14(3) must include the number, issue date and issuer of the main identity document, proof of the relationship with the operator, and the signature (or electronic signature) of the subject. Repeat access requests are limited to once per 30 days (Art. 14(4)). Deadlines are in working days, so deadline.days is null."
+}

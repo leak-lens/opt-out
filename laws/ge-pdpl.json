@@ -1,0 +1,77 @@
+{
+  "id": "ge-pdpl",
+  "name": "Personal Data Protection Law (Georgia)",
+  "law": "Law of Georgia on Personal Data Protection No. 3144 of 14 June 2023, in force 1 March 2024, as amended",
+  "jurisdictions": [
+    "GE"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": null,
+    "text": "10 working days from the request, extendable by up to 10 further working days in special cases with immediate notice to you. Decisions on blocking must be notified within 3 working days.",
+    "citation": "Articles 13(2), 14-16 and 20 of the Law on Personal Data Protection"
+  },
+  "authorities": {
+    "GE": {
+      "name": "State Audit Office of Georgia (supervisory body named in the consolidated law; the former Personal Data Protection Service functions)",
+      "url": "https://sao.ge/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Articles 13 and 14 of the Law of Georgia on Personal Data Protection"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and provide me with the information set out in Article 13, including the purposes, sources, recipients and storage periods, together with a copy of my data under Article 14."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 15 of the Law of Georgia on Personal Data Protection"
+      },
+      "text": {
+        "en": "Please correct, update and complete the inaccurate or incomplete personal data you hold about me, as specified in this request, and notify the recipients of the data of the change."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 16 of the Law of Georgia on Personal Data Protection"
+      },
+      "text": {
+        "en": "Please stop processing my personal data and erase or destroy it, and confirm in writing once this has been done."
+      }
+    },
+    "portability": {
+      "cite": {
+        "en": "Article 18 of the Law of Georgia on Personal Data Protection"
+      },
+      "text": {
+        "en": "Please provide the personal data that I supplied to you, which you process by automated means on the basis of consent or a contract, in a structured, machine-readable format or transmit it to another controller where technically feasible."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Article 20 of the Law of Georgia on Personal Data Protection"
+      },
+      "text": {
+        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing, erase or destroy my data where no other legal ground applies, and confirm in writing."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Law of Georgia on Personal Data Protection (consolidated, matsne.gov.ge)",
+      "url": "https://matsne.gov.ge/en/document/view/5827307"
+    },
+    {
+      "title": "State Audit Office of Georgia",
+      "url": "https://sao.ge/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Articles 13-16, 18 and 20 and the 10-working-day deadlines were read from the consolidated English text on matsne.gov.ge (only the first ~100k of 179k characters were reviewed). The consolidated text names the State Audit Office as the supervisory body in Arts 22, 28-30 but also mentions the 'Personal Data Protection Service' in Art. 29(9); the regulator's current name and website (sao.ge) are unverified. No stand-alone general right to object (only direct marketing, Art. 12(4)), so objection is omitted. Deadline is in working days, hence days is null."
+}

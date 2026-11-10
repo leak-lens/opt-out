@@ -1,0 +1,40 @@
+{
+  "id": "us-ca",
+  "name": "CCPA / CPRA (California)",
+  "law": "California Consumer Privacy Act of 2018 (Cal. Civ. Code § 1798.100 et seq.), as amended by the California Privacy Rights Act",
+  "jurisdictions": ["US-CA"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 45,
+    "text": "45 days, extendable once by another 45 days with notice to you",
+    "citation": "Cal. Civ. Code § 1798.130(a)(2)"
+  },
+  "authorities": {
+    "US-CA": { "name": "California Privacy Protection Agency", "url": "https://cppa.ca.gov/" }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "the California Consumer Privacy Act (right to know, Cal. Civ. Code § 1798.110)" },
+      "text": { "en": "Please disclose the categories and specific pieces of personal information you have collected about me, the categories of sources, the business or commercial purpose for collecting it, and the categories of third parties with whom you share it." }
+    },
+    "erasure": {
+      "cite": { "en": "the California Consumer Privacy Act (right to delete, Cal. Civ. Code § 1798.105)" },
+      "text": { "en": "Please delete all personal information you have collected from me, and direct your service providers and contractors to do the same. Please confirm in writing once this is done." }
+    },
+    "rectification": {
+      "cite": { "en": "the California Consumer Privacy Act (right to correct, Cal. Civ. Code § 1798.106)" },
+      "text": { "en": "Please correct the inaccurate personal information you maintain about me. Please confirm the correction in writing." }
+    },
+    "objection": {
+      "cite": { "en": "the California Consumer Privacy Act (right to opt out of sale and sharing, Cal. Civ. Code § 1798.120)" },
+      "text": { "en": "I opt out of the sale and sharing of my personal information, and I ask you to limit the use of any sensitive personal information to what is necessary to provide the service. Please confirm that you have honoured this request." }
+    }
+  },
+  "sources": [
+    { "title": "California Civil Code, Title 1.81.5 (CCPA), official legislative information", "url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5" },
+    { "title": "California Privacy Protection Agency", "url": "https://cppa.ca.gov/" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Section numbers and the 45-day period come from the maintainer's knowledge of the statute and were not re-read against the official text in this session. Applies to businesses that meet the CCPA thresholds."
+}

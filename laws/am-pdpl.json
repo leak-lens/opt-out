@@ -1,0 +1,69 @@
+{
+  "id": "am-pdpl",
+  "name": "Personal Data Protection Law (Armenia)",
+  "law": "Law of the Republic of Armenia \"On Protection of Personal Data\" No. HO-49-N of 13 June 2015, as amended",
+  "jurisdictions": [
+    "AM"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": null,
+    "text": "Information or access within 5 working days of a written request; rectification, blocking or destruction immediately or within 3 working days; after consent is withdrawn, processing must stop and data be destroyed within 10 working days.",
+    "citation": "Articles 20(1)-(2) and 21(6) of the Law on Protection of Personal Data"
+  },
+  "authorities": {
+    "AM": {
+      "name": "Personal Data Protection Agency (Ministry of Justice of Armenia)",
+      "url": "https://moj.am/en/structures/view/structure/32"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 15 of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+      },
+      "text": {
+        "en": "I request information on the processing of my personal data, including the legal basis, purposes, the processor, the recipients, the source of the data and the retention period, and access to the data you hold about me."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 15(2) of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+      },
+      "text": {
+        "en": "I request that you rectify, complete or update the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and notify me in writing once this has been done."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Articles 15(2) and 21 of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+      },
+      "text": {
+        "en": "I request the blocking and destruction of my personal data, which is unlawfully obtained or no longer necessary for the purposes of processing, and written confirmation once this has been done."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Articles 9(3) and 21(6) of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+      },
+      "text": {
+        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing and destroy my data within the period provided by law, and notify me in writing."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Law on Protection of Personal Data No. HO-49-N (English text, hosted by foi.am)",
+      "url": "https://foi.am/wp-content/uploads/2023/09/Personaldataprotectionlaw_ENG.pdf"
+    },
+    {
+      "title": "Personal Data Protection Agency, Ministry of Justice",
+      "url": "https://moj.am/en/structures/view/structure/32"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article numbers and deadlines come from the 2015 English text on a third-party (not official) site; its currency and any 2023-2026 amendments were NOT confirmed against arlis.am, the official legal portal. Requests must be written. No portability right and no general right to object in the text. Deadlines are in working days, hence days is null. Russian letter text not provided."
+}

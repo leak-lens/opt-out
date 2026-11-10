@@ -1,0 +1,15 @@
+{
+  "name": "data-rights-generator",
+  "version": "0.1.0",
+  "description": "Open-source generator of data subject request letters (access, erasure, rectification...) for data protection laws around the world.",
+  "license": "Apache-2.0",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

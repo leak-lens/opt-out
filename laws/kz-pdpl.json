@@ -1,0 +1,87 @@
+{
+  "id": "kz-pdpl",
+  "name": "Law on Personal Data (Kazakhstan)",
+  "law": "Law of the Republic of Kazakhstan No. 94-V of 21 May 2013 \"On Personal Data and Their Protection\", as amended",
+  "jurisdictions": [
+    "KZ"
+  ],
+  "letterLangs": [
+    "en",
+    "kk",
+    "ru"
+  ],
+  "deadline": {
+    "days": 1,
+    "text": "Correction, blocking or destruction of data must be carried out within 1 working day from the date of the request; for other requests, general terms of the legislation of Kazakhstan apply.",
+    "citation": "Article 25(2) of the Law on Personal Data and Their Protection (Law No. 94-V)"
+  },
+  "authorities": {
+    "KZ": {
+      "name": "Authorized body for personal data protection (Information Security Committee under the Ministry of Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan / Ақпараттық қауіпсіздік комитеті)",
+      "url": "https://www.gov.kz/memleket/entities/infsecurity"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 24(1) of the Law of the Republic of Kazakhstan \"On Personal Data and Their Protection\"",
+        "kk": "«Дербес деректер және оларды қорғау туралы» Қазақстан Республикасы Заңының 24-бабы 1-тармағы",
+        "ru": "статья 24 Закона Республики Казахстан «О персональных данных и их защите»"
+      },
+      "text": {
+        "en": "I request information on whether you hold my personal data, and, if so, free access to it together with information on the purposes and grounds of processing and on any third parties to whom it has been transferred.",
+        "kk": "Сіздерде менің дербес деректерімнің бар-жоғы туралы ақпарат беруіңізді және өңдеу мақсаттары, мерзімдері мен үшінші тұлғаларға берілуі туралы мәліметтерді қоса алғанда, олармен танысуға тегін қолжетімділік беруіңізді талап етемін.",
+        "ru": "Прошу предоставить информацию о наличии у вас моих персональных данных, а также предоставить бесплатный доступ к ним с указанием целей, способов обработки и сведений о лицах, которым они были переданы."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Articles 24(1) and 25(2) of the Law of the Republic of Kazakhstan \"On Personal Data and Their Protection\"",
+        "kk": "«Дербес деректер және оларды қорғау туралы» Қазақстан Республикасы Заңының 24 және 25-баптары",
+        "ru": "статьи 24 и 25 Закона Республики Казахстан «О персональных данных и их защите»"
+      },
+      "text": {
+        "en": "I request that you correct and supplement the inaccurate or incomplete personal data you hold about me, as specified in this request, and confirm in writing once this has been done.",
+        "kk": "Сіздерде сақталған менің дербес деректерімді осы өтінішке сәйкес өзгертуді және толықтыруды, сондай-ақ заңның 25-бабына сәйкес бір жұмыс күні ішінде бұл туралы жазбаша растауды талап етемін.",
+        "ru": "Прошу внести изменения и дополнения в мои персональные данные в соответствии с настоящим обращением и в течение 1 рабочего дня направить мне письменное подтверждение (ст. 25 Закона)."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Articles 24(1) and 25(2) of the Law of the Republic of Kazakhstan \"On Personal Data and Their Protection\"",
+        "kk": "«Дербес деректер және оларды қорғау туралы» Қазақстан Республикасы Заңының 24 және 25-баптары",
+        "ru": "статьи 24 и 25 Закона Республики Казахстан «О персональных данных и их защите»"
+      },
+      "text": {
+        "en": "I request the blocking and destruction of my personal data and written confirmation of this.",
+        "kk": "Менің дербес деректерімді бұғаттауды және жоюды, сондай-ақ заң талабына сай бір жұмыс күні ішінде жойылғаны туралы жазбаша растау беруіңізді талап етемін.",
+        "ru": "Требую заблокировать и уничтожить мои персональные данные, а также в течение одного рабочего дня предоставить мне письменное подтверждение уничтожения (ст. 25 Закона)."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Articles 8(1) and 24(1) of the Law of the Republic of Kazakhstan \"On Personal Data and Their Protection\"",
+        "kk": "«Дербес деректер және оларды қорғау туралы» Қазақстан Республикасы Заңының 8 және 24-баптары",
+        "ru": "статьи 8 и 24 Закона Республики Казахстан «О персональных данных и их защите»"
+      },
+      "text": {
+        "en": "I hereby withdraw my consent to the collection and processing of my personal data. Please stop processing it and confirm in writing that you have done so.",
+        "kk": "Мен дербес деректерімді жинауға және өңдеуге берген келісімімді кері қайтарып аламын. Деректерді өңдеуді тоқтатып, орындалғаны туралы жазбаша растауды талап етемін.",
+        "ru": "Настоящим отзываю свое согласие на сбор и обработку моих персональных данных. Требую прекратить их обработку и направить мне письменное подтверждение."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Law No. 94-V On Personal Data and Their Protection (Adilet, official legal portal)",
+      "url": "https://adilet.zan.kz/rus/docs/Z1300000094/z13094.htm"
+    },
+    {
+      "title": "Information Security Committee (gov.kz)",
+      "url": "https://www.gov.kz/memleket/entities/infsecurity"
+    }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Verified against the official Adilet legal database (Law No. 94-V). Under Article 25(2), an operator is legally required to make changes/additions, block, or destroy personal data within 1 working day upon receipt of the subject's request."
+}

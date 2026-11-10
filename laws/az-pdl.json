@@ -1,0 +1,78 @@
+{
+  "id": "az-pdl",
+  "name": "Law on Personal Data (Azerbaijan)",
+  "law": "Law of the Republic of Azerbaijan \"On Personal Data\" of 11 May 2010, No. 998-IIIQ, as amended (latest listed amendment Law No. 1193-VIQD of 28 June 2024)",
+  "jurisdictions": [
+    "AZ"
+  ],
+  "letterLangs": [
+    "en",
+    "az"
+  ],
+  "deadline": {
+    "days": null,
+    "text": "7 business days from receipt of the request, extendable by a further 7 business days where a third party must be consulted; a reasoned refusal within 5 business days. Responses are free of charge.",
+    "citation": "Articles 12.4-12.7 of the Law on Personal Data (Law No. 998-IIIQ)"
+  },
+  "authorities": {
+    "AZ": {
+      "name": "Relevant executive authority under the Law on Personal Data (Ministry of Digital Development and Transport of the Republic of Azerbaijan / Rəqəmsal İnkişaf və Nəqliyyat Nazirliyi)",
+      "url": "https://mincom.gov.az/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 7.1 of the Law of the Republic of Azerbaijan \"On Personal Data\"",
+        "az": "\"Fərdi məlumatlar haqqında\" Azərbaycan Respublikası Qanununun 7.1-ci maddəsi"
+      },
+      "text": {
+        "en": "I request information on whether you hold my personal data, who holds and processes it, for what purposes, for how long and by what methods, and which third parties have received it. Please also give me access to the content of the data you hold about me.",
+        "az": "Sizdə mənim barəmdə fərdi məlumatların mövcudluğu, bu məlumatların hansı məqsədlərlə, üsullarla və hansı müddətə işlənilməsi, habelə məlumatların hansı üçüncü şəxslərə ötürülməsi barədə məlumat verməyinizi və toplanmış fərdi məlumatlarımın məzmunu ilə tanış olmağıma imkan yaratmağınızı tələb edirəm."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 7.1.5 of the Law of the Republic of Azerbaijan \"On Personal Data\"",
+        "az": "\"Fərdi məlumatlar haqqında\" Azərbaycan Respublikası Qanununun 7.1.5-ci maddəsi"
+      },
+      "text": {
+        "en": "I request that you correct and clarify the personal data you hold about me, as specified in this request. Please notify the third parties to whom the data were transferred and confirm in writing.",
+        "az": "Sizdə saxlanılan fərdi məlumatlarımın bu müraciətdə göstərilən qaydada dəqiqləşdirilməsini, məlumatların ötürüldüyü üçüncü şəxslərin bu barədə məlumatlandırılmasını və nəticəsi barədə mənə yazılı təsdiq təqdim olunmasını tələb edirəm."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 7.1.5 of the Law of the Republic of Azerbaijan \"On Personal Data\"",
+        "az": "\"Fərdi məlumatlar haqqında\" Azərbaycan Respublikası Qanununun 7.1.5-ci maddəsi"
+      },
+      "text": {
+        "en": "I request the destruction of the personal data you hold about me (or, where destruction is not possible, its transfer to an archive) and written confirmation once this has been done.",
+        "az": "Sizdə saxlanılan fərdi məlumatlarımın dərhal məhv edilməsini (məhv edilməsi qanunla mümkün olmadıqda isə arxivləşdirilməsini) və icrası barədə mənə rəsmi yazılı təsdiq təqdim edilməsini tələb edirəm."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "Article 7.2 of the Law of the Republic of Azerbaijan \"On Personal Data\"",
+        "az": "\"Fərdi məlumatlar haqqında\" Azərbaycan Respublikası Qanununun 7.2-ci maddəsi"
+      },
+      "text": {
+        "en": "I object in writing to the collection and processing of my personal data. In accordance with the law, please stop processing my data immediately and confirm this in writing.",
+        "az": "Fərdi məlumatlarımın toplanmasına və işlənilməsinə dair rəsmi yazılı etirazımı bildirirəm. Qanunun 7.2-ci maddəsinin tələbinə uyğun olaraq, məlumatlarımın işlənilməsini dərhal dayandırmağınızı və bu barədə mənə yazılı təsdiq verməyinizi tələb edirəm."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "\"Fərdi məlumatlar haqqında\" Azərbaycan Respublikasının Qanunu (№ 998-IIIQ) - e-qanun.az",
+      "url": "https://e-qanun.az/framework/19611"
+    },
+    {
+      "title": "Ministry of Digital Development and Transport (Rəqəmsal İnkişaf və Nəqliyyat Nazirliyi)",
+      "url": "https://mincom.gov.az/"
+    }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Verified directly against the official e-qanun.az registry (Law No. 998-IIIQ, including recent amendments). Article 12.4 establishes a strict deadline of 7 business days for responding to data subjects, extendable by up to 7 business days only when third-party consultation is necessary (Art. 12.5). Written objection under Art. 7.2 obligates immediate cessation of processing."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "jp-appi",
+  "name": "APPI (Japan)",
+  "law": "Act on the Protection of Personal Information (Act No. 57 of 2003, as amended)",
+  "jurisdictions": ["JP"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": null,
+    "text": "The Act sets no fixed number of days: the business must respond \"without delay\". Before suing, a person must generally first make a request and wait two weeks from its arrival (Art. 39). The business may charge a reasonable fee for disclosure (Art. 38) and may specify a request procedure (Art. 37).",
+    "citation": "Arts. 33(2)-(3), 34(2)-(3), 35(7) APPI (\"without delay\"); Art. 39"
+  },
+  "authorities": {
+    "JP": {
+      "name": "Personal Information Protection Commission (PPC)",
+      "url": "https://www.ppc.go.jp/en/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Article 33 of the Act on the Protection of Personal Information" },
+      "text": { "en": "Please disclose the retained personal data that identifies me, in electronic form if possible. If you decide not to disclose any part of it, or if the data does not exist, please notify me without delay and state the reason." }
+    },
+    "rectification": {
+      "cite": { "en": "Article 34 of the Act on the Protection of Personal Information" },
+      "text": { "en": "The retained personal data about me is not factual. Please investigate without delay, correct, add to or delete the data as specified in this request, and notify me of the result." }
+    },
+    "erasure": {
+      "cite": { "en": "Article 35 of the Act on the Protection of Personal Information" },
+      "text": { "en": "Please cease using, or delete, the retained personal data about me on the grounds stated in this request. Please notify me without delay of your decision, and of the reasons if you decline all or part of it." }
+    }
+  },
+  "sources": [
+    { "title": "Act on the Protection of Personal Information (English translation, Japanese Law Translation database)", "url": "https://www.japaneselawtranslation.go.jp/ja/laws/view/4241/en" },
+    { "title": "Personal Information Protection Commission (PPC)", "url": "https://www.ppc.go.jp/en/" }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Articles 33, 34, 35 and 37-39 were read in the Japanese Law Translation database English text (post-2021/2022 amendments numbering; the page is marked partly unenforced, and the translation is not legally authoritative, the Japanese text is). Rights apply to \"retained personal data\" held by a business handling personal information. Cessation of use or deletion (Art. 35) is available only on specified grounds: handling in breach of Arts. 18, 19 or 20, no longer needed, a leak under Art. 26(1), or likely harm to your rights or legitimate interests; there is no general erasure or portability right (the electronic-disclosure option in Art. 33 is the nearest equivalent). The PPC site was not fetched. Public bodies are covered by a separate part of the Act and are not addressed in this letter."
+}

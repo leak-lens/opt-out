@@ -1,0 +1,88 @@
+{
+  "id": "ua-pdl",
+  "name": "Ukraine Personal Data Law",
+  "law": "Law of Ukraine No. 2297-VI of 1 June 2010 \"On Personal Data Protection\", as amended",
+  "jurisdictions": [
+    "UA"
+  ],
+  "letterLangs": [
+    "en",
+    "uk"
+  ],
+  "deadline": {
+    "days": 30,
+    "text": "The controller must notify you within 10 working days whether your request will be granted or refused (with legal grounds for any refusal). The request must be fulfilled within 30 calendar days of receipt.",
+    "citation": "Articles 16 and 20 of Law of Ukraine No. 2297-VI"
+  },
+  "authorities": {
+    "UA": {
+      "name": "Ukrainian Parliament Commissioner for Human Rights (Уповноважений Верховної Ради України з прав людини)",
+      "url": "https://ombudsman.gov.ua/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 8(2)(1)-(4) and Article 16 of the Law of Ukraine \"On Personal Data Protection\"",
+        "uk": "статті 8 та 16 Закону України «Про захист персональних даних»"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and provide me with all information about the processing, including the data held, its source, the purpose of the processing, the location of the controller and the recipients to whom my data has been disclosed.",
+        "uk": "Прошу надати інформацію про те, чи обробляються мої персональні дані, їх зміст та джерела збирання, мету їх обробки, місцезнаходження володільця, а також відомості про третіх осіб, яким ці дані передаються."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 8(2)(6) of the Law of Ukraine \"On Personal Data Protection\"",
+        "uk": "пункт 6 частини другої статті 8 Закону України «Про захист персональних даних»"
+      },
+      "text": {
+        "en": "Please correct or supplement the inaccurate or incomplete personal data you hold about me, as specified in this request, and confirm the changes to me in writing.",
+        "uk": "Пред'являю вимогу щодо внесення змін та виправлення моїх неточних або неповних персональних даних відповідно до цього звернення, та надіслання мені письмового підтвердження."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 8(2)(6) of the Law of Ukraine \"On Personal Data Protection\"",
+        "uk": "пункт 6 частини другої статті 8 Закону України «Про захист персональних даних»"
+      },
+      "text": {
+        "en": "I request that you stop processing and destroy my personal data, which was collected or is being processed unlawfully, and confirm the destruction to me in writing.",
+        "uk": "Вимагаю припинити обробку та знищити мої персональні дані, які обробляються незаконно або є недостовірними, та письмово підтвердити мені факт їх знищення."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "Article 8(2)(5) of the Law of Ukraine \"On Personal Data Protection\"",
+        "uk": "пункт 5 частини другої статті 8 Закону України «Про захист персональних даних»"
+      },
+      "text": {
+        "en": "I submit a reasoned objection to the processing of my personal data for the purposes specified in this request. Please stop this processing and confirm this to me in writing.",
+        "uk": "Пред'являю вмотивовану вимогу із запереченням проти обробки моїх персональних даних. Прошу негайно припинити їх обробку та письмово повідомити мене про це."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Article 8(2)(11) of the Law of Ukraine \"On Personal Data Protection\"",
+        "uk": "пункт 11 частини другої статті 8 Закону України «Про захист персональних даних»"
+      },
+      "text": {
+        "en": "I hereby withdraw the consent I gave for the processing of my personal data. Please stop the processing based on that consent and confirm this to me in writing.",
+        "uk": "Відкликаю свою згоду на обробку персональних даних. Вимагаю припинити обробку, що базується на цій згоді, та письмово підтвердити це."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Ukrainian Parliament Commissioner for Human Rights: right of access to personal data",
+      "url": "https://ombudsman.gov.ua/en/news_details/pravo-na-dostup-do-svoyih-personalnih-danih-garantovane-konstituciyeyu-ukrayini-i-zakonom-ukrayini-pro-zahist-personalnih-danih"
+    },
+    {
+      "title": "Law of Ukraine No. 2297-VI (Verkhovna Rada legislation portal)",
+      "url": "https://zakon.rada.gov.ua/laws/show/2297-17"
+    }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Verified against the official text of Law No. 2297-VI and guidance from the Ukrainian Parliament Commissioner for Human Rights. Article 8 establishes the complete catalog of data subject rights. Articles 16 and 20 set the deadline structure: decision on request within 10 business days, fulfillment within 30 calendar days."
+}

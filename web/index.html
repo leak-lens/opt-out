@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LeakLens — Opt-Out & Civic Data Rights Generator</title>
+  <meta name="description" content="Generate legally enforceable formal letters asking companies to disclose, rectify or erase personal data under national data protection laws. Runs entirely in your browser.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="top-bar">
+    <div><span class="marker">■</span> PUBLIC CIVIC DATA WATCHDOG &nbsp;|&nbsp; EST. 2026</div>
+    <a href="https://leaklens.org" class="support-btn" target="_blank" rel="noopener noreferrer">SUPPORT LEAKLENS</a>
+  </div>
+
+  <header class="nav-bar">
+    <a href="https://leaklens.org" class="logo-group">
+      <div class="logo-icon"></div>
+      <div>
+        <span class="logo-title">LeakLens</span>
+        <span class="logo-sep">|</span>
+        <span class="logo-subtitle">Public Registry of Data Leaks</span>
+      </div>
+    </a>
+  </header>
+
+  <main>
+    <div class="hero">
+      <div class="tagline">
+        <span class="bullet">■</span> CIVIC AUDIT MODE &nbsp;•&nbsp; DATA SUBJECT RIGHTS & OPT-OUT
+      </div>
+      <h1>Demand erasure and disclosure of your personal data</h1>
+      <p class="lead">
+        Independent, non-commercial privacy rights generator. In regions where no active oversight or GDPR exists, 
+        national legislation still gives citizens the legal right to demand the destruction, rectification, and audit of their personal data. 
+        Runs 100% in your browser: zero data is collected, logged, or transmitted.
+      </p>
+    </div>
+
+    <section class="card" aria-labelledby="s1">
+      <h2 id="s1" class="card-title"><span class="bullet">■</span> 1. Select Jurisdiction &amp; Request Type</h2>
+      
+      <label for="country">Country or Jurisdiction</label>
+      <select id="country"></select>
+      <div id="lawInfo" class="law-info"></div>
+
+      <label for="type">Request Action</label>
+      <select id="type"></select>
+
+      <div id="langRow" hidden>
+        <label for="lang">Legal Letter Language (Official National / English)</label>
+        <select id="lang"></select>
+      </div>
+    </section>
+
+    <section class="card" aria-labelledby="s2">
+      <h2 id="s2" class="card-title"><span class="bullet">■</span> 2. Recipient Company &amp; Applicant Details</h2>
+      
+      <label for="company">Target Company / Data Controller (Recipient)</label>
+      <input id="company" placeholder="e.g. Bank, Telecom, Service name or dpo@company.com">
+
+      <label for="name">Your Full Name (Data Subject)</label>
+      <input id="name" placeholder="As registered with the service" autocomplete="off">
+
+      <label for="email">Reply-to Email Address</label>
+      <input id="email" type="email" placeholder="name@example.com" autocomplete="off">
+
+      <label for="accountId">Username / Phone / Account Identifier (Optional)</label>
+      <input id="accountId" placeholder="e.g. +99450XXXXXXX, username, or client ID" autocomplete="off">
+
+      <label for="details">Specific Scope / Breach Reference (Optional)</label>
+      <textarea id="details" rows="3" placeholder="Specify which breach, leaked dataset, or specific records you want erased or audited."></textarea>
+    </section>
+
+    <section class="card" aria-labelledby="s3">
+      <h2 id="s3" class="card-title"><span class="bullet">■</span> 3. Formally Prepared Legal Letter</h2>
+      
+      <textarea id="output" rows="18" readonly aria-label="Generated legal letter"></textarea>
+      
+      <div class="actions">
+        <button id="copy" type="button">Copy to Clipboard</button>
+        <button id="download" class="secondary" type="button">Download .txt</button>
+        <a id="mailto" class="button" href="#">Open in Email Client</a>
+      </div>
+      <p id="warn" class="warn" hidden></p>
+    </section>
+
+    <section class="card tips">
+      <h2 class="card-title"><span class="bullet">■</span> Procedural Directives &amp; Legal Enforcement</h2>
+      <ul>
+        <li><strong>Send from the registered address:</strong> Always email from the exact address or phone tied to the account to prevent identity disputes.</li>
+        <li><strong>Do not attach unnecessary ID documents:</strong> Never provide passport scans unless the controller formally explains the statutory necessity.</li>
+        <li><strong>Keep the timestamps:</strong> Statutory response deadlines (e.g. 7 business days in Azerbaijan, 1 day in Kazakhstan) run strictly from the receipt timestamp.</li>
+        <li><strong>Escalate upon silence:</strong> If the controller ignores your request within the statutory deadline, file a formal complaint with the official supervisory authority linked above.</li>
+      </ul>
+      <p class="hint">Template letters are structured strictly in compliance with statutory provisions. Zero queries or IP addresses are logged.</p>
+    </section>
+
+    <footer>
+      <div>LeakLens — independent civic data project. Not affiliated with any commercial or governmental institution.</div>
+      <div class="footer-links">
+        <a href="https://leaklens.org" target="_blank" rel="noopener noreferrer">About</a>
+        <a href="https://leaklens.org" target="_blank" rel="noopener noreferrer">Methodology</a>
+        <a href="https://leaklens.org" target="_blank" rel="noopener noreferrer">API</a>
+        <a href="https://leaklens.org" target="_blank" rel="noopener noreferrer">Contact</a>
+        <a href="https://github.com/leak-lens" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </footer>
+  </main>
+
+  <script src="letter.js"></script>
+  <script src="laws-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

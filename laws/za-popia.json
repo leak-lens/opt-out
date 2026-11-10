@@ -1,0 +1,81 @@
+{
+  "id": "za-popia",
+  "name": "South Africa POPIA",
+  "law": "Protection of Personal Information Act 4 of 2013 (POPIA)",
+  "jurisdictions": [
+    "ZA"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": null,
+    "text": "Within a reasonable time (s. 23(1)(b)(i)); the Act sets no fixed number of days for a data subject request. See the law and the POPIA Regulations for prescribed forms and fees.",
+    "citation": "s. 23(1)(b)(i) POPIA"
+  },
+  "authorities": {
+    "ZA": {
+      "name": "Information Regulator (South Africa)",
+      "url": "https://inforegulator.org.za/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "section 23 of the Protection of Personal Information Act 4 of 2013 (POPIA)"
+      },
+      "text": {
+        "en": "I have attached adequate proof of my identity. Please confirm, free of charge, whether you hold personal information about me, and provide me with the record or a description of that information, including the identity or categories of all third parties who have or have had access to it."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "section 24(1)(a) of the Protection of Personal Information Act 4 of 2013 (POPIA)"
+      },
+      "text": {
+        "en": "Please correct the personal information about me that is in your possession or under your control and that is inaccurate, irrelevant, excessive, out of date, incomplete, misleading or obtained unlawfully, as specified in this request. Please confirm in writing once this has been done."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "section 24(1) of the Protection of Personal Information Act 4 of 2013 (POPIA)"
+      },
+      "text": {
+        "en": "Please delete or destroy the personal information about me that you hold and that you are no longer authorised to retain, or that is inaccurate, irrelevant, excessive, out of date, incomplete, misleading or obtained unlawfully. Please confirm in writing once this has been done."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "section 11(3) of the Protection of Personal Information Act 4 of 2013 (POPIA)"
+      },
+      "text": {
+        "en": "I object to the processing of my personal information on reasonable grounds relating to my particular situation, and for the purposes of direct marketing. Please stop processing my personal information for these purposes and confirm in writing."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "section 11(2)(b) of the Protection of Personal Information Act 4 of 2013 (POPIA)"
+      },
+      "text": {
+        "en": "I hereby withdraw any consent I have given for the processing of my personal information. Please stop processing that relies on my consent and confirm in writing that you have done so."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Protection of Personal Information Act 4 of 2013 (text read on a professional-body copy of the Act)",
+      "url": "https://www.irba.co.za/upload/POPIA.pdf"
+    },
+    {
+      "title": "Information Regulator (South Africa): Act text",
+      "url": "https://inforegulator.org.za/wp-content/uploads/2020/07/English.pdf"
+    },
+    {
+      "title": "Information Regulator (South Africa)",
+      "url": "https://inforegulator.org.za/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Section numbers (5, 11(2)(b), 11(3), 23(1), 24(1)) were verified against the Act text, but read on an IRBA-hosted copy rather than the Government Gazette/regulator PDF (the regulator page fetched was only a summary). Access is subject to a prescribed fee and form (POPIA Regulations, not checked); the Regulations' form numbers were not verified. The 'responsible party' is the controller; letters may need to go to its Information Officer. Section 11(3)(a) objection does not apply where legislation provides for the processing, and s. 11(3)(b) covers direct marketing other than unsolicited electronic communications (s. 69)."
+}

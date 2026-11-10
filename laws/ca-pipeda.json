@@ -1,0 +1,40 @@
+{
+  "id": "ca-pipeda",
+  "name": "PIPEDA (Canada)",
+  "law": "Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5",
+  "jurisdictions": ["CA"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 30,
+    "text": "Within 30 calendar days of receiving the request. The organization may extend this by up to a further 30 days in limited cases (for example, unreasonable interference with its activities, or necessary consultations), but it must tell you within the first 30 days and inform you of your right to complain to the Privacy Commissioner. Access should be free or at minimal cost.",
+    "citation": "PIPEDA s. 8(3)-(4); OPC guidance on responding to access requests"
+  },
+  "authorities": {
+    "CA": {
+      "name": "Office of the Privacy Commissioner of Canada (OPC)",
+      "url": "https://www.priv.gc.ca/en/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Principle 4.9 (Individual Access) in Schedule 1 of PIPEDA" },
+      "text": { "en": "Please inform me of the existence, use and disclosure of my personal information and give me access to it, including any third parties to which it has been disclosed. I expect a response within 30 days of this request." }
+    },
+    "rectification": {
+      "cite": { "en": "Principle 4.9.5 (Individual Access) in Schedule 1 of PIPEDA" },
+      "text": { "en": "Please amend the inaccurate or incomplete personal information you hold about me, as specified in this request, and confirm in writing once done. Where appropriate, please pass the amended information to third parties that have access to it." }
+    },
+    "withdraw": {
+      "cite": { "en": "Principle 4.3.8 (Consent) in Schedule 1 of PIPEDA" },
+      "text": { "en": "I hereby withdraw my consent to the collection, use and disclosure of my personal information for the purposes concerned. Please stop these activities and tell me in writing what the withdrawal means for me, as required by Principle 4.3.8." }
+    }
+  },
+  "sources": [
+    { "title": "PIPEDA, Schedule 1 (Justice Laws Website)", "url": "https://laws-lois.justice.gc.ca/eng/acts/p-8.6/page-7.html" },
+    { "title": "OPC: Responding to access to information requests under PIPEDA", "url": "https://www.priv.gc.ca/en/privacy-topics/accessing-personal-information/obligations-for-organizations/02_05_d_54_ati_02/" },
+    { "title": "Office of the Privacy Commissioner of Canada", "url": "https://www.priv.gc.ca/en/" }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "PIPEDA gives no statutory right to erasure or portability, so those are intentionally omitted. A federal Bill C-36 (Protecting Privacy and Consumer Data Act, tabled 15 June 2026, would add deletion and data-mobility rights) was reported as tabled only and is not in force; it was not checked on parl.ca. Clauses 4.9, 4.9.5 and 4.3.8 and the 30-day rule were verified (Schedule 1 text; OPC page), but the section numbers s. 8(3)-(4) were not opened on the Justice Laws page, hence needs-review. PIPEDA covers federal works and private-sector commercial activity in provinces without a substantially similar law. Quebec (Law 25, Act respecting the protection of personal information in the private sector) and Alberta and British Columbia (PIPA) apply provincially to most private organizations in those provinces and give their own rights; use those regimes where they apply."
+}

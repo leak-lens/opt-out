@@ -1,0 +1,234 @@
+{
+  "id": "gdpr",
+  "name": "GDPR",
+  "law": "Regulation (EU) 2016/679 (General Data Protection Regulation)",
+  "jurisdictions": [
+    "AT",
+    "BE",
+    "BG",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IE",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE",
+    "IS",
+    "LI",
+    "NO"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": 30,
+    "text": "Without undue delay and in any event within one month of receipt of the request (approximately 30 days). The period may be extended by two further months where necessary, taking into account the complexity and number of requests; the controller must inform you of any extension, with reasons, within the first month.",
+    "citation": "Art. 12(3) GDPR"
+  },
+  "authorities": {
+    "AT": {
+      "name": "Österreichische Datenschutzbehörde (Austrian Data Protection Authority)",
+      "url": "http://www.dsb.gv.at/"
+    },
+    "BE": {
+      "name": "Autorité de la protection des données / Gegevensbeschermingsautoriteit (APD-GBA)",
+      "url": "https://www.autoriteprotectiondonnees.be"
+    },
+    "BG": {
+      "name": "Commission for Personal Data Protection",
+      "url": "https://www.cpdp.bg/"
+    },
+    "HR": {
+      "name": "Agencija za zaštitu osobnih podataka (AZOP) (Croatian Personal Data Protection Agency)",
+      "url": "http://www.azop.hr/"
+    },
+    "CY": {
+      "name": "Office of the Commissioner for Personal Data Protection (Cyprus)",
+      "url": "http://www.dataprotection.gov.cy/"
+    },
+    "CZ": {
+      "name": "Office for Personal Data Protection (Úřad pro ochranu osobních údajů)",
+      "url": "https://uoou.gov.cz/"
+    },
+    "DK": {
+      "name": "Datatilsynet (Danish Data Protection Agency)",
+      "url": "http://www.datatilsynet.dk/"
+    },
+    "EE": {
+      "name": "Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)",
+      "url": "http://www.aki.ee/"
+    },
+    "FI": {
+      "name": "Office of the Data Protection Ombudsman (Tietosuojavaltuutetun toimisto)",
+      "url": "http://www.tietosuoja.fi/en/"
+    },
+    "FR": {
+      "name": "Commission Nationale de l'Informatique et des Libertés (CNIL)",
+      "url": "http://www.cnil.fr/"
+    },
+    "DE": {
+      "name": "Federal Commissioner for Data Protection and Freedom of Information (BfDI); for private companies the competent authority is usually the state (Land) authority",
+      "url": "http://www.bfdi.bund.de/"
+    },
+    "GR": {
+      "name": "Hellenic Data Protection Authority (Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα)",
+      "url": "http://www.dpa.gr/"
+    },
+    "HU": {
+      "name": "Hungarian National Authority for Data Protection and Freedom of Information (NAIH)",
+      "url": "http://www.naih.hu/"
+    },
+    "IE": {
+      "name": "Data Protection Commission",
+      "url": "http://www.dataprotection.ie/"
+    },
+    "IT": {
+      "name": "Garante per la protezione dei dati personali",
+      "url": "http://www.garanteprivacy.it/"
+    },
+    "LV": {
+      "name": "Data State Inspectorate (Datu valsts inspekcija)",
+      "url": "https://www.dvi.gov.lv/"
+    },
+    "LT": {
+      "name": "State Data Protection Inspectorate (Valstybinė duomenų apsaugos inspekcija)",
+      "url": "https://vdai.lrv.lt/"
+    },
+    "LU": {
+      "name": "Commission Nationale pour la Protection des Données (CNPD)",
+      "url": "http://www.cnpd.lu/"
+    },
+    "MT": {
+      "name": "Office of the Information and Data Protection Commissioner (IDPC)",
+      "url": "http://www.idpc.org.mt/"
+    },
+    "NL": {
+      "name": "Autoriteit Persoonsgegevens",
+      "url": "https://autoriteitpersoonsgegevens.nl/"
+    },
+    "PL": {
+      "name": "Urząd Ochrony Danych Osobowych (UODO, Personal Data Protection Office)",
+      "url": "https://uodo.gov.pl/"
+    },
+    "PT": {
+      "name": "Comissão Nacional de Proteção de Dados (CNPD)",
+      "url": "http://www.cnpd.pt/"
+    },
+    "RO": {
+      "name": "National Supervisory Authority for Personal Data Processing (ANSPDCP)",
+      "url": "http://www.dataprotection.ro/"
+    },
+    "SK": {
+      "name": "Úrad na ochranu osobných údajov Slovenskej republiky (Office for Personal Data Protection of the Slovak Republic)",
+      "url": "http://www.dataprotection.gov.sk/"
+    },
+    "SI": {
+      "name": "Information Commissioner of the Republic of Slovenia (Informacijski pooblaščenec)",
+      "url": "https://www.ip-rs.si/"
+    },
+    "ES": {
+      "name": "Agencia Española de Protección de Datos (AEPD)",
+      "url": "https://www.aepd.es/"
+    },
+    "SE": {
+      "name": "Integritetsskyddsmyndigheten (IMY, Swedish Authority for Privacy Protection)",
+      "url": "https://www.imy.se/"
+    },
+    "IS": {
+      "name": "Persónuvernd (Icelandic Data Protection Authority)",
+      "url": "https://www.personuvernd.is"
+    },
+    "LI": {
+      "name": "Data Protection Authority, Principality of Liechtenstein (Datenschutzstelle)",
+      "url": "https://www.datenschutzstelle.li"
+    },
+    "NO": {
+      "name": "Datatilsynet (Norwegian Data Protection Authority)",
+      "url": "https://www.datatilsynet.no"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 15 GDPR"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and, if so, provide me with a copy of it together with the information required by Article 15, including the purposes of the processing, the categories of data, the recipients, the retention period, the source of the data and any automated decision-making."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 17 GDPR"
+      },
+      "text": {
+        "en": "Please erase all personal data you hold about me without undue delay, and confirm in writing once this has been done. Where you have made my data public or disclosed it to other recipients, please take reasonable steps to inform them of this request."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 16 GDPR"
+      },
+      "text": {
+        "en": "Please correct the inaccurate personal data you hold about me and complete any incomplete data, as specified in this request. Please confirm in writing once the corrections have been made and, where applicable, notify the recipients of my data."
+      }
+    },
+    "portability": {
+      "cite": {
+        "en": "Article 20 GDPR"
+      },
+      "text": {
+        "en": "Please provide the personal data that I have supplied to you, and that you process on the basis of consent or a contract by automated means, in a structured, commonly used and machine-readable format. Where technically feasible, please transmit it directly to the controller I designate."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "Article 21 GDPR"
+      },
+      "text": {
+        "en": "I object to the processing of my personal data on grounds relating to my particular situation. Please stop processing my data for the purposes concerned, and in any event for direct marketing, unless you can demonstrate compelling legitimate grounds that override my interests, rights and freedoms."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Article 7(3) GDPR"
+      },
+      "text": {
+        "en": "I hereby withdraw any consent I have previously given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "GDPR official text (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+    },
+    {
+      "title": "EDPB: national supervisory authorities (members list)",
+      "url": "https://www.edpb.europa.eu/about-edpb/our-members"
+    },
+    {
+      "title": "Art. 12 GDPR text (cross-check of paragraph 3)",
+      "url": "https://gdpr-info.eu/art-12-gdpr/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article numbers and the one-month deadline (Art. 12(3)) were cross-checked against the Art. 12 text and article titles; EUR-Lex could not be fetched directly. Authority names and URLs are taken from the EDPB members page; individual national websites could not be opened to verify them (several are listed by EDPB with http://). Germany: complaints about private companies normally go to the competent Land authority (see BfDI list of state authorities); Austria: complaints split between the Datenschutzbehörde and the Parlamentarisches Datenschutzkomitee. Iceland, Liechtenstein and Norway apply the GDPR via the EEA Agreement."
+}

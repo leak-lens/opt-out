@@ -1,0 +1,94 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build and Production outputs
+dist/
+build/
+out/
+.next/
+
+# Environment Variables & Secrets (CRITICAL FOR LEAK PREVENTION)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+*.env
+*.env.*
+
+# Private Keys, Certificates and Authentication Tokens
+*.pem
+*.key
+*.pkcs12
+*.p12
+*.pfx
+*.cer
+*.crt
+*.der
+id_rsa*
+id_ed25519*
+id_ecdsa*
+id_dsa*
+*.token
+*.secret
+*.passwd
+*.password
+
+# Git credentials and local tokens
+.git/credentials
+.git-credentials
+*.credentials
+
+# Cloud Provider, Service Account & API credentials
+credentials.json
+service-account*.json
+service_account*.json
+client_secret*.json
+firebase-adminsdk*.json
+*-credentials.json
+.aws/
+.azure/
+.gcp/
+gcp-*.json
+
+# Databases, Local Stores & Dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+*.tar.gz
+*.zip
+*.bak
+
+# Logs and debug files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+Screenshot*.png
+*.png
+
+# IDE and Editor configurations
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.swp
+*.swo
+*~

@@ -1,0 +1,77 @@
+{
+  "id": "us-co",
+  "name": "Colorado Privacy Act",
+  "law": "Colorado Privacy Act (C.R.S. Title 6, Article 1, Part 13, § 6-1-1301 et seq.)",
+  "jurisdictions": [
+    "US-CO"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": 45,
+    "text": "Within 45 days after receipt of the request. The controller may extend this by a further 45 days where reasonably necessary, provided it notifies you of the extension and the reasons within the first 45 days.",
+    "citation": "C.R.S. § 6-1-1306(2)(a)"
+  },
+  "authorities": {
+    "US-CO": {
+      "name": "Colorado Attorney General",
+      "url": "https://coag.gov/resources/colorado-privacy-act/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "C.R.S. § 6-1-1306(1)(b)"
+      },
+      "text": {
+        "en": "Please confirm whether you are processing my personal data and, if so, provide me with access to that personal data. Please also provide the information you are required to give in response to such a request."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "C.R.S. § 6-1-1306(1)(c)"
+      },
+      "text": {
+        "en": "Please correct the inaccuracies in my personal data that you hold, as specified in this request, taking into account the nature of the data and the purposes of the processing. Please confirm in writing once the correction has been made."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "C.R.S. § 6-1-1306(1)(d)"
+      },
+      "text": {
+        "en": "Please delete the personal data that I provided to you or that you have obtained about me, and confirm in writing once this has been done. Where you rely on a statutory exception to retain any of it, please tell me which one."
+      }
+    },
+    "portability": {
+      "cite": {
+        "en": "C.R.S. § 6-1-1306(1)(e)"
+      },
+      "text": {
+        "en": "Please provide me with a copy of the personal data that I previously provided to you, in a portable and, to the extent technically feasible, readily usable format that allows me to transmit it to another controller without hindrance."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "C.R.S. § 6-1-1306(1)(a)"
+      },
+      "text": {
+        "en": "I opt out of the processing of my personal data for the purposes of targeted advertising, the sale of my personal data, and profiling in furtherance of decisions that produce legal or similarly significant effects concerning me. Please confirm in writing that you have honored this request."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "C.R.S. § 6-1-1306 (text as reproduced on colorado.public.law; official code is published by the Colorado General Assembly)",
+      "url": "https://colorado.public.law/statutes/crs_6-1-1306"
+    },
+    {
+      "title": "Colorado Attorney General: Data Privacy",
+      "url": "https://coag.gov/resources/data-privacy/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Statute text was read on a non-official reproduction (colorado.public.law, 'current through Fall 2025'); the Colorado General Assembly's own text was not reached, and any 2025-2026 amendments were not checked. Portability may be exercised no more than twice per calendar year. Controllers that do targeted advertising or sell data must honor a universal opt-out mechanism. Applies to Colorado residents."
+}

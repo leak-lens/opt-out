@@ -1,0 +1,89 @@
+{
+  "id": "kr-pipa",
+  "name": "Korea PIPA",
+  "law": "Personal Information Protection Act of the Republic of Korea (Act No. 21445 as promulgated 10 March 2026 on elaw.klri.re.kr; earlier versions amended up to 2023)",
+  "jurisdictions": [
+    "KR"
+  ],
+  "letterLangs": [
+    "en"
+  ],
+  "deadline": {
+    "days": null,
+    "text": "Access: within the period prescribed by the Enforcement Decree (believed to be 10 days, not confirmed). Correction, erasure and suspension of processing: without delay after the request, and the controller must notify you of the result or of the reasons for refusing.",
+    "citation": "Art. 35(3), 36(2), 37(2) and (4) PIPA"
+  },
+  "authorities": {
+    "KR": {
+      "name": "Personal Information Protection Commission (PIPC)",
+      "url": "https://www.pipc.go.kr/eng/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 35 of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal information and provide me with access to it, including the items processed, the purposes, and any third parties to whom it has been provided."
+      }
+    },
+    "portability": {
+      "cite": {
+        "en": "Article 35-2 of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "Please transmit to me, in a form processable by a computer or other information processing device, the personal information concerning me that you process on the basis of my consent or a contract, to the extent technically feasible and reasonable."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 36 of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "Please investigate and correct without delay the inaccurate personal information of mine that you hold, as specified in this request, and notify me of the result."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 36 of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "Please erase without delay the personal information of mine that you hold, take measures to prevent its recovery, and notify me of the result. If you refuse, please state the reason."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "Article 37 of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "I request that you suspend the processing of my personal information, in whole or in part, without delay. If you refuse, please notify me of the reasons."
+      }
+    },
+    "withdraw": {
+      "cite": {
+        "en": "Article 37(1) of the Personal Information Protection Act"
+      },
+      "text": {
+        "en": "I hereby withdraw my consent to the processing of my personal information. Please take the necessary measures without delay, such as destroying the data so that it cannot be recovered, and notify me of the result."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Personal Information Protection Act (Korea Legislation Research Institute, English)",
+      "url": "https://elaw.klri.re.kr/eng_service/lawViewTitle.do?hseq=75275"
+    },
+    {
+      "title": "Personal Information Protection Act, full text (KLRI)",
+      "url": "https://elaw.klri.re.kr/kor_service/lawViewContent.do?hseq=62389"
+    },
+    {
+      "title": "Personal Information Protection Commission",
+      "url": "https://www.pipc.go.kr/eng/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article headings (35, 35-2, 36, 37) and their paragraph text were read on the KLRI English translation (a version that may pre-date Act No. 21445; the effective date of the latest version was not stated). The access period is delegated to the Enforcement Decree, which was not opened, so deadline.days is null. The English translation is unofficial; the Korean text is authoritative. Portability under Art. 35-2 applies to controllers and data categories designated by the Commission and Decree."
+}

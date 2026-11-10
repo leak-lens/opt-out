@@ -1,0 +1,74 @@
+{
+  "id": "tr-kvkk",
+  "name": "KVKK (Turkey)",
+  "law": "Law No. 6698 on the Protection of Personal Data (KVKK), as amended (including Law No. 7499 of 2024)",
+  "jurisdictions": [
+    "TR"
+  ],
+  "letterLangs": [
+    "en",
+    "tr"
+  ],
+  "deadline": {
+    "days": 30,
+    "text": "As soon as possible and at the latest within thirty days of receipt of the request, free of charge (the controller may charge a fee set by the Board if the response requires a cost).",
+    "citation": "Article 13(2) of Law No. 6698"
+  },
+  "authorities": {
+    "TR": {
+      "name": "Personal Data Protection Authority / Board (KVKK)",
+      "url": "https://www.kvkk.gov.tr/"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": {
+        "en": "Article 11(1)(a)-(c) of Law No. 6698 on the Protection of Personal Data",
+        "tr": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesinin birinci fıkrasının (a), (b) ve (c) bentleri"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and, if so, provide me with access to it together with information on the purposes, the legal basis, the recipients and the source of the data.",
+        "tr": "Kişisel verilerimin işlenip işlenmediğini bildirmenizi, işleniyorsa buna ilişkin bilgi vermenizi ve işlenme amacını ile amacına uygun kullanılıp kullanılmadığını açıklamanızı talep ederim. Ayrıca verilerimin aktarıldığı üçüncü kişileri bildirmenizi rica ederim."
+      }
+    },
+    "rectification": {
+      "cite": {
+        "en": "Article 11(1)(d) of Law No. 6698 on the Protection of Personal Data",
+        "tr": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesinin birinci fıkrasının (d) bendi"
+      },
+      "text": {
+        "en": "Please correct, update or complete the inaccurate or incomplete personal data you hold about me, as specified in this request, and confirm in writing once this has been done. Please also notify the third parties to whom the data were transferred (Article 11(1)(f)).",
+        "tr": "Eksik veya yanlış işlenmiş olan kişisel verilerimin düzeltilmesini talep ederim. Yapılan işlemin, verilerimin aktarıldığı üçüncü kişilere de bildirilmesini ve tarafıma yazılı olarak bilgi verilmesini rica ederim."
+      }
+    },
+    "erasure": {
+      "cite": {
+        "en": "Article 11(1)(e) of Law No. 6698 on the Protection of Personal Data, read with Article 7",
+        "tr": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesinin birinci fıkrasının (e) bendi ve 7. maddesi"
+      },
+      "text": {
+        "en": "Please destroy or erase the personal data you hold about me and confirm in writing once this has been done. Where you have passed the data to third parties, please notify them of this request.",
+        "tr": "İşlenmesini gerektiren sebeplerin ortadan kalkması nedeniyle kişisel verilerimin silinmesini veya yok edilmesini talep ederim. Yapılan işlemin, verilerimin aktarıldığı üçüncü kişilere de bildirilmesini ve tarafıma yazılı olarak bilgi verilmesini rica ederim."
+      }
+    },
+    "objection": {
+      "cite": {
+        "en": "Article 11(1)(g) of Law No. 6698 on the Protection of Personal Data",
+        "tr": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesinin birinci fıkrasının (g) bendi"
+      },
+      "text": {
+        "en": "I object to any outcome against me that results from the analysis of my personal data exclusively through automated systems. Please review the decision with human involvement and inform me in writing of the outcome.",
+        "tr": "Kişisel verilerimin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhime bir sonucun ortaya çıkmasına itiraz ediyorum. Kararın insan müdahalesiyle yeniden değerlendirilmesini ve sonucun tarafıma yazılı olarak bildirilmesini rica ederim."
+      }
+    }
+  },
+  "sources": [
+    {
+      "title": "Personal Data Protection Authority (KVKK) - official site",
+      "url": "https://www.kvkk.gov.tr/"
+    }
+  ],
+  "status": "needs-review",
+  "checkedOn": "2026-11-10",
+  "notes": "Article numbers (11, 13, 14) and the 30-day deadline are from knowledge of Law 6698 and secondary sources; the official text on mevzuat.gov.tr / kvkk.gov.tr could not be fetched in this session, so everything is unverified against an official source. Law 7499 (2024) mainly changed Articles 6 and 9 (special-category data, cross-border transfer); Articles 11 and 13 should be unchanged. KVKK has no portability right and no stand-alone right to withdraw consent or object generally, so those types are omitted. Complaint to the Board is possible after the controller replies or fails to reply within 30 days (Art. 14). Turkish text not reviewed by a native speaker."
+}

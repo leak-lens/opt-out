@@ -1,0 +1,51 @@
+{
+  "id": "br-lgpd",
+  "name": "LGPD (Brazil)",
+  "law": "Lei Geral de Proteção de Dados Pessoais (LGPD), Law No. 13.709 of 14 August 2018",
+  "jurisdictions": ["BR"],
+  "letterLangs": ["en"],
+  "deadline": {
+    "days": 15,
+    "text": "Confirmation of processing or access must be given immediately in a simplified format, or, if you ask for a complete declaration (origin of the data, criteria used, purpose), within 15 days of the request. For other requests, Article 18 §5 refers to the deadlines set by ANPD regulation; if the controller cannot act immediately it must say so and give reasons (Art. 18 §4). Requests are free of charge.",
+    "citation": "Art. 19, I and II, and Art. 18 §§4-5 LGPD"
+  },
+  "authorities": {
+    "BR": {
+      "name": "Autoridade Nacional de Proteção de Dados (ANPD)",
+      "url": "https://www.gov.br/anpd/pt-br"
+    }
+  },
+  "types": {
+    "access": {
+      "cite": { "en": "Article 18, items I and II, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "Please confirm whether you process my personal data and give me access to it. I ask for a complete declaration under Article 19, II, stating the origin of the data, the criteria used and the purpose of the processing, within 15 days of this request." }
+    },
+    "erasure": {
+      "cite": { "en": "Article 18, items IV and VI, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "Please delete the personal data you hold about me that is unnecessary, excessive or processed in breach of the LGPD, and any data processed on the basis of my consent. Please confirm in writing once this is done and inform the other processing agents with whom you shared the data, as required by Article 18 §6." }
+    },
+    "rectification": {
+      "cite": { "en": "Article 18, item III, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "Please correct the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and confirm in writing once done. Please also notify the processing agents with whom you shared the data, as required by Article 18 §6." }
+    },
+    "portability": {
+      "cite": { "en": "Article 18, item V, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "Please provide my personal data in a structured, commonly used format, or transfer it to the service or product provider I designate, in accordance with ANPD regulation and subject to your commercial and industrial secrets." }
+    },
+    "objection": {
+      "cite": { "en": "Article 18, paragraph 2, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "I object to the processing of my personal data that you carry out without my consent, on the basis of another legal ground, because it does not comply with the LGPD. Please stop this processing or explain in writing the legal ground you rely on." }
+    },
+    "withdraw": {
+      "cite": { "en": "Article 18, item IX, and Article 8, paragraph 5, of the LGPD (Law No. 13.709/2018)" },
+      "text": { "en": "I hereby revoke any consent I have given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so." }
+    }
+  },
+  "sources": [
+    { "title": "Lei 13.709/2018 (updated text), Câmara dos Deputados", "url": "https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html" },
+    { "title": "ANPD (Brazilian data protection authority)", "url": "https://www.gov.br/anpd/pt-br" }
+  ],
+  "status": "official",
+  "checkedOn": "2026-11-10",
+  "notes": "Articles 18 (items I-IX, §§2-6) and 19 verified against the updated text on the Chamber of Deputies site (the Planalto site was blocked). The 15-day period in Art. 19 II applies to the complete declaration; for other requests Art. 18 §5 defers to ANPD regulation, which was not checked, so the 15 days is a safe working deadline, not a statutory one for erasure or correction. The ANPD site itself was not fetched. Complaints go first to the controller's data protection officer (encarregado), then to ANPD (Art. 18 §1)."
+}
