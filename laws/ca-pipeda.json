@@ -3,7 +3,7 @@
   "name": "PIPEDA (Canada)",
   "law": "Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000, c. 5",
   "jurisdictions": ["CA"],
-  "letterLangs": ["en"],
+  "letterLangs": ["en", "fr"],
   "deadline": {
     "days": 30,
     "text": "Within 30 calendar days of receiving the request. The organization may extend this by up to a further 30 days in limited cases (for example, unreasonable interference with its activities, or necessary consultations), but it must tell you within the first 30 days and inform you of your right to complain to the Privacy Commissioner. Access should be free or at minimal cost.",
@@ -17,16 +17,34 @@
   },
   "types": {
     "access": {
-      "cite": { "en": "Principle 4.9 (Individual Access) in Schedule 1 of PIPEDA" },
-      "text": { "en": "Please inform me of the existence, use and disclosure of my personal information and give me access to it, including any third parties to which it has been disclosed. I expect a response within 30 days of this request." }
+      "cite": {
+        "en": "Principle 4.9 (Individual Access) in Schedule 1 of PIPEDA",
+        "fr": "Principe 4.9 (Accès aux renseignements personnels) de l'annexe 1 de la LPRPDE"
+      },
+      "text": {
+        "en": "Please inform me of the existence, use and disclosure of my personal information and give me access to it, including any third parties to which it has been disclosed. I expect a response within 30 days of this request.",
+        "fr": "Veuillez m'informer de l'existence de renseignements personnels qui me concernent, de l'usage qui en est fait et du fait qu'ils ont été communiqués à des tiers, et m'en donner accès. Je vous saurais gré de me répondre dans un délai de 30 jours suivant la réception de cette demande."
+      }
     },
     "rectification": {
-      "cite": { "en": "Principle 4.9.5 (Individual Access) in Schedule 1 of PIPEDA" },
-      "text": { "en": "Please amend the inaccurate or incomplete personal information you hold about me, as specified in this request, and confirm in writing once done. Where appropriate, please pass the amended information to third parties that have access to it." }
+      "cite": {
+        "en": "Principle 4.9.5 (Individual Access) in Schedule 1 of PIPEDA",
+        "fr": "Principe 4.9.5 (Accès aux renseignements personnels) de l'annexe 1 de la LPRPDE"
+      },
+      "text": {
+        "en": "Please amend the inaccurate or incomplete personal information you hold about me, as specified in this request, and confirm in writing once done. Where appropriate, please pass the amended information to third parties that have access to it.",
+        "fr": "Veuillez modifier ou corriger les renseignements personnels inexacts ou incomplets me concernant, tel que précisé dans la présente demande, et m'en donner confirmation écrite. Le cas échéant, veuillez transmettre ces modifications aux tiers ayant accès à ces renseignements."
+      }
     },
     "withdraw": {
-      "cite": { "en": "Principle 4.3.8 (Consent) in Schedule 1 of PIPEDA" },
-      "text": { "en": "I hereby withdraw my consent to the collection, use and disclosure of my personal information for the purposes concerned. Please stop these activities and tell me in writing what the withdrawal means for me, as required by Principle 4.3.8." }
+      "cite": {
+        "en": "Principle 4.3.8 (Consent) in Schedule 1 of PIPEDA",
+        "fr": "Principe 4.3.8 (Consentement) de l'annexe 1 de la LPRPDE"
+      },
+      "text": {
+        "en": "I hereby withdraw my consent to the collection, use and disclosure of my personal information for the purposes concerned. Please stop these activities and tell me in writing what the withdrawal means for me, as required by Principle 4.3.8.",
+        "fr": "Je retire par la présente mon consentement à la collecte, à l'utilisation et à la communication de mes renseignements personnels pour les fins concernées. Veuillez cesser ces activités et m'informer par écrit des conséquences de ce retrait, conformément au principe 4.3.8."
+      }
     }
   },
   "sources": [

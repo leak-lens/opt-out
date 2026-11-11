@@ -6,7 +6,8 @@
     "GE"
   ],
   "letterLangs": [
-    "en"
+    "en",
+    "ka"
   ],
   "deadline": {
     "days": null,
@@ -22,42 +23,52 @@
   "types": {
     "access": {
       "cite": {
-        "en": "Articles 13 and 14 of the Law of Georgia on Personal Data Protection"
+        "en": "Articles 13 and 14 of the Law of Georgia on Personal Data Protection",
+        "ka": "„პერსონალურ მონაცემთა დაცვის შესახებ“ საქართველოს კანონის მე-13 და მე-14 მუხლები"
       },
       "text": {
-        "en": "Please confirm whether you process my personal data and provide me with the information set out in Article 13, including the purposes, sources, recipients and storage periods, together with a copy of my data under Article 14."
+        "en": "Please confirm whether you process my personal data and provide me with the information set out in Article 13, including the purposes, sources, recipients and storage periods, together with a copy of my data under Article 14.",
+        "ka": "გთხოვთ დამიდასტუროთ, მუშავდება თუ არა ჩემი პერსონალური მონაცემები და მომაწოდოთ მე-13 მუხლით გათვალისწინებული ინფორმაცია (დამუშავების საფუძველი, მიზნები, შენახვის ვადა, მონაცემთა მიმღებები), აგრეთვე მე-14 მუხლის შესაბამისად გადმომცეთ მონაცემთა ასლი."
       }
     },
     "rectification": {
       "cite": {
-        "en": "Article 15 of the Law of Georgia on Personal Data Protection"
+        "en": "Article 15 of the Law of Georgia on Personal Data Protection",
+        "ka": "„პერსონალურ მონაცემთა დაცვის შესახებ“ საქართველოს კანონის მე-15 მუხლი"
       },
       "text": {
-        "en": "Please correct, update and complete the inaccurate or incomplete personal data you hold about me, as specified in this request, and notify the recipients of the data of the change."
+        "en": "Please correct, update and complete the inaccurate or incomplete personal data you hold about me, as specified in this request, and notify the recipients of the data of the change.",
+        "ka": "გთხოვთ გაასწოროთ, განაახლოთ და შეავსოთ ჩემი არაზუსტი ან არასრული პერსონალური მონაცემები წინამდებარე მოთხოვნის შესაბამისად და აღნიშნულის შესახებ აცნობოთ მონაცემთა მიმღებ პირებს."
       }
     },
     "erasure": {
       "cite": {
-        "en": "Article 16 of the Law of Georgia on Personal Data Protection"
+        "en": "Article 16 of the Law of Georgia on Personal Data Protection",
+        "ka": "„პერსონალურ მონაცემთა დაცვის შესახებ“ საქართველოს კანონის მე-16 მუხლი"
       },
       "text": {
-        "en": "Please stop processing my personal data and erase or destroy it, and confirm in writing once this has been done."
+        "en": "Please stop processing my personal data and erase or destroy it, and confirm in writing once this has been done.",
+        "ka": "გთხოვთ შეწყვიტოთ ჩემი პერსონალური მონაცემების დამუშავება, წაშალოთ ან გაანადგუროთ ისინი და წერილობით დამიდასტუროთ აღნიშნული ქმედების შესრულება."
       }
     },
     "portability": {
       "cite": {
-        "en": "Article 18 of the Law of Georgia on Personal Data Protection"
+        "en": "Article 18 of the Law of Georgia on Personal Data Protection",
+        "ka": "„პერსონალურ მონაცემთა დაცვის შესახებ“ საქართველოს კანონის მე-18 მუხლი"
       },
       "text": {
-        "en": "Please provide the personal data that I supplied to you, which you process by automated means on the basis of consent or a contract, in a structured, machine-readable format or transmit it to another controller where technically feasible."
+        "en": "Please provide the personal data that I supplied to you, which you process by automated means on the basis of consent or a contract, in a structured, machine-readable format or transmit it to another controller where technically feasible.",
+        "ka": "გთხოვთ მოგვაწოდოთ ჩემ მიერ მოწოდებული პერსონალური მონაცემები სტრუქტურიზებულ, საყოველთაოდ გამოყენებად და მანქანურად წაკითხვად ფორმატში, ან ტექნიკური შესაძლებლობის შემთხვევაში გადასცეთ ისინი სხვა დამუშავებისთვის პასუხისმგებელ პირს."
       }
     },
     "withdraw": {
       "cite": {
-        "en": "Article 20 of the Law of Georgia on Personal Data Protection"
+        "en": "Article 20 of the Law of Georgia on Personal Data Protection",
+        "ka": "„პერსონალურ მონაცემთა დაცვის შესახებ“ საქართველოს კანონის მე-20 მუხლი"
       },
       "text": {
-        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing, erase or destroy my data where no other legal ground applies, and confirm in writing."
+        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing, erase or destroy my data where no other legal ground applies, and confirm in writing.",
+        "ka": "წინამდებარე განცხადებით გამოვითხოვ ჩემს თანხმობას პერსონალური მონაცემების დამუშავებაზე. გთხოვთ შეწყვიტოთ დამუშავება, წაშალოთ ან გაანადგუროთ ჩემი მონაცემები, თუ არ არსებობს დამუშავების სხვა სამართლებრივი საფუძველი, და დამიდასტუროთ ეს წერილობით."
       }
     }
   },

@@ -3,7 +3,7 @@
   "name": "LGPD (Brazil)",
   "law": "Lei Geral de Proteção de Dados Pessoais (LGPD), Law No. 13.709 of 14 August 2018",
   "jurisdictions": ["BR"],
-  "letterLangs": ["en"],
+  "letterLangs": ["en", "pt"],
   "deadline": {
     "days": 15,
     "text": "Confirmation of processing or access must be given immediately in a simplified format, or, if you ask for a complete declaration (origin of the data, criteria used, purpose), within 15 days of the request. For other requests, Article 18 §5 refers to the deadlines set by ANPD regulation; if the controller cannot act immediately it must say so and give reasons (Art. 18 §4). Requests are free of charge.",
@@ -17,28 +17,64 @@
   },
   "types": {
     "access": {
-      "cite": { "en": "Article 18, items I and II, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "Please confirm whether you process my personal data and give me access to it. I ask for a complete declaration under Article 19, II, stating the origin of the data, the criteria used and the purpose of the processing, within 15 days of this request." }
+      "cite": {
+        "en": "Article 18, items I and II, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, incisos I e II, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "Please confirm whether you process my personal data and give me access to it. I ask for a complete declaration under Article 19, II, stating the origin of the data, the criteria used and the purpose of the processing, within 15 days of this request.",
+        "pt": "Solicito a confirmação da existência de tratamento e o acesso aos meus dados pessoais. Requeiro a disponibilização de declaração clara e completa, nos termos do art. 19, II, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, no prazo de até 15 dias."
+      }
     },
     "erasure": {
-      "cite": { "en": "Article 18, items IV and VI, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "Please delete the personal data you hold about me that is unnecessary, excessive or processed in breach of the LGPD, and any data processed on the basis of my consent. Please confirm in writing once this is done and inform the other processing agents with whom you shared the data, as required by Article 18 §6." }
+      "cite": {
+        "en": "Article 18, items IV and VI, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, incisos IV e VI, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "Please delete the personal data you hold about me that is unnecessary, excessive or processed in breach of the LGPD, and any data processed on the basis of my consent. Please confirm in writing once this is done and inform the other processing agents with whom you shared the data, as required by Article 18 §6.",
+        "pt": "Solicito a eliminação dos dados pessoais desnecessários, excessivos ou tratados em desconformidade com a LGPD, bem como dos dados tratados com base no meu consentimento. Requeiro a confirmação por escrito após a efetivação e a comunicação aos demais agentes de tratamento com os quais os dados foram compartilhados, nos termos do art. 18, § 6º."
+      }
     },
     "rectification": {
-      "cite": { "en": "Article 18, item III, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "Please correct the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and confirm in writing once done. Please also notify the processing agents with whom you shared the data, as required by Article 18 §6." }
+      "cite": {
+        "en": "Article 18, item III, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, inciso III, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "Please correct the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and confirm in writing once done. Please also notify the processing agents with whom you shared the data, as required by Article 18 §6.",
+        "pt": "Solicito a correção de dados incompletos, inexatos ou desatualizados que vocês mantêm a meu respeito, conforme especificado nesta solicitação, e a confirmação por escrito após a conclusão. Solicito também a notificação dos demais agentes de tratamento com os quais os dados foram compartilhados (art. 18, § 6º)."
+      }
     },
     "portability": {
-      "cite": { "en": "Article 18, item V, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "Please provide my personal data in a structured, commonly used format, or transfer it to the service or product provider I designate, in accordance with ANPD regulation and subject to your commercial and industrial secrets." }
+      "cite": {
+        "en": "Article 18, item V, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, inciso V, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "Please provide my personal data in a structured, commonly used format, or transfer it to the service or product provider I designate, in accordance with ANPD regulation and subject to your commercial and industrial secrets.",
+        "pt": "Solicito a portabilidade dos meus dados pessoais a outro fornecedor de serviço ou produto, em formato estruturado e interoperável, observados os segredos comercial e industrial e a regulamentação da ANPD."
+      }
     },
     "objection": {
-      "cite": { "en": "Article 18, paragraph 2, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "I object to the processing of my personal data that you carry out without my consent, on the basis of another legal ground, because it does not comply with the LGPD. Please stop this processing or explain in writing the legal ground you rely on." }
+      "cite": {
+        "en": "Article 18, paragraph 2, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, § 2º, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "I object to the processing of my personal data that you carry out without my consent, on the basis of another legal ground, because it does not comply with the LGPD. Please stop this processing or explain in writing the legal ground you rely on.",
+        "pt": "Oponho-me ao tratamento dos meus dados pessoais realizado com dispensa de consentimento, em caso de descumprimento ao disposto na LGPD. Solicito a interrupção de tal tratamento ou a devida fundamentação jurídica por escrito."
+      }
     },
     "withdraw": {
-      "cite": { "en": "Article 18, item IX, and Article 8, paragraph 5, of the LGPD (Law No. 13.709/2018)" },
-      "text": { "en": "I hereby revoke any consent I have given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so." }
+      "cite": {
+        "en": "Article 18, item IX, and Article 8, paragraph 5, of the LGPD (Law No. 13.709/2018)",
+        "pt": "Artigo 18, inciso IX, e Artigo 8º, § 5º, da LGPD (Lei nº 13.709/2018)"
+      },
+      "text": {
+        "en": "I hereby revoke any consent I have given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so.",
+        "pt": "Venho por meio desta revogar o meu consentimento para o tratamento dos meus dados pessoais. Solicito a imediata interrupção de todo tratamento que tenha por base esse consentimento e a confirmação por escrito."
+      }
     }
   },
   "sources": [

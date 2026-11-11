@@ -35,7 +35,11 @@
     "NO"
   ],
   "letterLangs": [
-    "en"
+    "en",
+    "de",
+    "fr",
+    "es",
+    "pt"
   ],
   "deadline": {
     "days": 30,
@@ -167,50 +171,98 @@
   "types": {
     "access": {
       "cite": {
-        "en": "Article 15 GDPR"
+        "en": "Article 15 GDPR",
+        "de": "Artikel 15 DSGVO",
+        "fr": "Article 15 du RGPD",
+        "es": "Artículo 15 del RGPD",
+        "pt": "Artigo 15.º do RGPD"
       },
       "text": {
-        "en": "Please confirm whether you process my personal data and, if so, provide me with a copy of it together with the information required by Article 15, including the purposes of the processing, the categories of data, the recipients, the retention period, the source of the data and any automated decision-making."
+        "en": "Please confirm whether you process my personal data and, if so, provide me with a copy of it together with the information required by Article 15, including the purposes of the processing, the categories of data, the recipients, the retention period, the source of the data and any automated decision-making.",
+        "de": "Bitte bestätigen Sie mir, ob Sie personenbezogene Daten über mich verarbeiten, und stellen Sie mir gegebenenfalls eine Kopie dieser Daten sowie die in Artikel 15 DSGVO genannten Informationen zur Verfügung (Verarbeitungszwecke, Datenkategorien, Empfänger, Speicherdauer, Herkunft der Daten und das Bestehen einer automatisierten Entscheidungsfindung).",
+        "fr": "Veuillez me confirmer si vous traitez des données à caractère personnel me concernant et, le cas échéant, m'en fournir une copie ainsi que les informations prévues à l'article 15 (finalités du traitement, catégories de données, destinataires, durée de conservation, source des données et existence d'une prise de décision automatisée).",
+        "es": "Les solicito que confirmen si tratan datos personales que me conciernen y, en tal caso, me faciliten una copia de los mismos junto con la información indicada en el artículo 15, incluidos los fines del tratamiento, las categorías de datos, los destinatarios, el plazo de conservación, el origen de los datos y la existencia de decisiones automatizadas.",
+        "pt": "Solicito a confirmação de que os meus dados pessoais são objeto de tratamento e, em caso afirmativo, o acesso a esses dados e às informações referidas no artigo 15.º, incluindo as finalidades do tratamento, as categorias de dados, os destinatários, o prazo de conservação, a origem dos dados e a existência de decisões automatizadas."
       }
     },
     "erasure": {
       "cite": {
-        "en": "Article 17 GDPR"
+        "en": "Article 17 GDPR",
+        "de": "Artikel 17 DSGVO",
+        "fr": "Article 17 du RGPD",
+        "es": "Artículo 17 del RGPD",
+        "pt": "Artigo 17.º do RGPD"
       },
       "text": {
-        "en": "Please erase all personal data you hold about me without undue delay, and confirm in writing once this has been done. Where you have made my data public or disclosed it to other recipients, please take reasonable steps to inform them of this request."
+        "en": "Please erase all personal data you hold about me without undue delay, and confirm in writing once this has been done. Where you have made my data public or disclosed it to other recipients, please take reasonable steps to inform them of this request.",
+        "de": "Bitte löschen Sie alle personenbezogenen Daten, die Sie über mich gespeichert haben, unverzüglich und bestätigen Sie mir die Löschung schriftlich. Sofern Sie die Daten öffentlich gemacht oder an Dritte weitergegeben haben, ergreifen Sie bitte angemessene Maßnahmen, um diese über meinen Antrag zu informieren.",
+        "fr": "Je vous prie d'effacer dans les meilleurs délais l'ensemble des données à caractère personnel me concernant et de m'en donner confirmation écrite. Si vous avez rendu ces données publiques ou les avez transmises à des tiers, veuillez prendre des mesures raisonnables pour les informer de cette demande.",
+        "es": "Les solicito que supriman sin dilación indebida todos los datos personales que conserven sobre mí y me lo confirmen por escrito. Si han hecho públicos mis datos o los han comunicado a terceros, les ruego que adopten medidas razonables para informarles de esta solicitud.",
+        "pt": "Solicito o apagamento dos meus dados pessoais sem demora injustificada e a confirmação por escrito após a conclusão. Se tiverem divulgado publicamente os meus dados ou os tiverem comunicado a terceiros, solicito que adotem medidas razoáveis para os informar deste pedido."
       }
     },
     "rectification": {
       "cite": {
-        "en": "Article 16 GDPR"
+        "en": "Article 16 GDPR",
+        "de": "Artikel 16 DSGVO",
+        "fr": "Article 16 du RGPD",
+        "es": "Artículo 16 del RGPD",
+        "pt": "Artigo 16.º do RGPD"
       },
       "text": {
-        "en": "Please correct the inaccurate personal data you hold about me and complete any incomplete data, as specified in this request. Please confirm in writing once the corrections have been made and, where applicable, notify the recipients of my data."
+        "en": "Please correct the inaccurate personal data you hold about me and complete any incomplete data, as specified in this request. Please confirm in writing once the corrections have been made and, where applicable, notify the recipients of my data.",
+        "de": "Bitte berichtigen Sie die Sie betreffenden unrichtigen personenbezogenen Daten über mich und vervollständigen Sie unvollständige Daten wie in diesem Antrag angegeben. Bitte bestätigen Sie mir die Berichtigung schriftlich und benachrichtigen Sie gegebenenfalls die Empfänger meiner Daten.",
+        "fr": "Je vous prie de rectifier les données à caractère personnel inexactes me concernant et de compléter les données incomplètes, conformément à la présente demande. Merci de me confirmer ces modifications par écrit et de les notifier, le cas échéant, aux destinataires de mes données.",
+        "es": "Les solicito que rectifiquen los datos personales inexactos sobre mí y completen los datos incompletos, conforme a lo especificado en esta solicitud. Por favor, confírmenme por escrito la corrección y, si procede, notifíquenla a los destinatarios a los que hayan comunicado mis datos.",
+        "pt": "Solicito a retificação dos dados pessoais inexatos que vos digam respeito a meu respeito e o preenchimento de quaisquer dados incompletos, conforme especificado neste pedido, com confirmação por escrito e respetiva comunicação aos destinatários dos dados."
       }
     },
     "portability": {
       "cite": {
-        "en": "Article 20 GDPR"
+        "en": "Article 20 GDPR",
+        "de": "Artikel 20 DSGVO",
+        "fr": "Article 20 du RGPD",
+        "es": "Artículo 20 del RGPD",
+        "pt": "Artigo 20.º do RGPD"
       },
       "text": {
-        "en": "Please provide the personal data that I have supplied to you, and that you process on the basis of consent or a contract by automated means, in a structured, commonly used and machine-readable format. Where technically feasible, please transmit it directly to the controller I designate."
+        "en": "Please provide the personal data that I have supplied to you, and that you process on the basis of consent or a contract by automated means, in a structured, commonly used and machine-readable format. Where technically feasible, please transmit it directly to the controller I designate.",
+        "de": "Bitte stellen Sie mir die personenbezogenen Daten, die ich Ihnen bereitgestellt habe und die Sie auf Grundlage einer Einwilligung oder eines Vertrags mithilfe automatisierter Verfahren verarbeiten, in einem strukturierten, gängigen und maschinenlesbaren Format zur Verfügung oder übermitteln Sie diese direkt an den von mir benannten Verantwortlichen, soweit dies technisch machbar ist.",
+        "fr": "Veuillez me fournir les données à caractère personnel que je vous ai fournies, et que vous traitez de manière automatisée sur la base du consentement ou d'un contrat, dans un format structuré, couramment utilisé et lisible par machine, ou les transmettre directement au responsable du traitement désigné, lorsque cela est techniquement possible.",
+        "es": "Les solicito que me faciliten los datos personales que les he proporcionado, y que tratan mediante procesos automatizados con base en mi consentimiento o en un contrato, en un formato estructurado, de uso común y lectura mecánica, o que los transmitan directamente al responsable que les indico, cuando sea técnicamente posible.",
+        "pt": "Solicito a disponibilização dos dados pessoais que vos forneci, e que tratam por meios automatizados com base no consentimento ou num contrato, num formato estruturado, de uso corrente e de leitura automática, ou a sua transmissão direta ao responsável que indicar, sempre que seja tecnicamente viável."
       }
     },
     "objection": {
       "cite": {
-        "en": "Article 21 GDPR"
+        "en": "Article 21 GDPR",
+        "de": "Artikel 21 DSGVO",
+        "fr": "Article 21 du RGPD",
+        "es": "Artículo 21 del RGPD",
+        "pt": "Artigo 21.º do RGPD"
       },
       "text": {
-        "en": "I object to the processing of my personal data on grounds relating to my particular situation. Please stop processing my data for the purposes concerned, and in any event for direct marketing, unless you can demonstrate compelling legitimate grounds that override my interests, rights and freedoms."
+        "en": "I object to the processing of my personal data on grounds relating to my particular situation. Please stop processing my data for the purposes concerned, and in any event for direct marketing, unless you can demonstrate compelling legitimate grounds that override my interests, rights and freedoms.",
+        "de": "Ich lege aus Gründen, die sich aus meiner besonderen Situation ergeben, Widerspruch gegen die Verarbeitung meiner personenbezogenen Daten ein. Bitte stellen Sie die Verarbeitung zu den betroffenen Zwecken und in jedem Fall für Direktwerbung ein, es sei denn, Sie können zwingende schutzwürdige Gründe nachweisen, die meine Interessen, Rechte und Freiheiten überwiegen.",
+        "fr": "Je m'oppose au traitement de mes données à caractère personnel pour des raisons tenant à ma situation particulière. Veuillez cesser le traitement de mes données pour les finalités concernées, et en tout état de cause à des fins de prospection, à moins que vous ne démontriez des motifs légitimes et impérieux prévalant sur mes intérêts, droits et libertés.",
+        "es": "Me opongo al tratamiento de mis datos personales por motivos relacionados con mi situación particular. Por favor, dejen de tratar mis datos para los fines indicados, y en todo caso con fines de mercadotecnia directa, salvo que acrediten motivos legítimos imperiosos que prevalezcan sobre mis intereses, derechos y libertades.",
+        "pt": "Oponho-me ao tratamento dos meus dados pessoais com base na minha situação particular. Solicito a cessação do tratamento para essas finalidades, e em especial para efeitos de comercialização direta, salvo se apresentarem razões imperiosas e legítimas que prevaleçam sobre os meus interesses, direitos e liberdades."
       }
     },
     "withdraw": {
       "cite": {
-        "en": "Article 7(3) GDPR"
+        "en": "Article 7(3) GDPR",
+        "de": "Artikel 7 Absatz 3 DSGVO",
+        "fr": "Article 7, paragraphe 3, du RGPD",
+        "es": "Artículo 7, apartado 3, del RGPD",
+        "pt": "Artigo 7.º, n.º 3, do RGPD"
       },
       "text": {
-        "en": "I hereby withdraw any consent I have previously given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so."
+        "en": "I hereby withdraw any consent I have previously given for the processing of my personal data. Please stop all processing that relies on that consent and confirm in writing that you have done so.",
+        "de": "Hiermit widerrufe ich meine Einwilligung in die Verarbeitung meiner personenbezogenen Daten mit Wirkung für die Zukunft. Bitte stellen Sie jede Verarbeitung ein, die auf dieser Einwilligung beruht, und bestätigen Sie mir dies schriftlich.",
+        "fr": "Je révoque par la présente tout consentement précédemment donné au traitement de mes données à caractère personnel. Je vous prie de cesser tout traitement fondé sur ce consentement et de me le confirmer par écrit.",
+        "es": "Por la presente revoco el consentimiento previamente otorgado para el tratamiento de mis datos personales. Les ruego que cesen cualquier tratamiento basado en dicho consentimiento y me lo confirmen por escrito.",
+        "pt": "Venho por este meio retirar o consentimento anteriormente prestado para o tratamento dos meus dados pessoais. Solicito a cessação de todo o tratamento fundado nesse consentimento e a respetiva confirmação por escrito."
       }
     }
   },

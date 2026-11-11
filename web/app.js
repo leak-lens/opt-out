@@ -14,7 +14,13 @@
     uk: "Українська",
     ka: "ქართული",
     hy: "Հայերեն",
-    be: "Беларуская"
+    be: "Беларуская",
+    de: "Deutsch",
+    fr: "Français",
+    es: "Español",
+    pt: "Português",
+    ja: "日本語",
+    ko: "한국어"
   };
   var SUBNATIONAL = {
     "US-CA": "California (US)", "US-VA": "Virginia (US)", "US-CO": "Colorado (US)",

@@ -3,7 +3,7 @@
   "name": "Belarus Personal Data Law",
   "law": "Law of the Republic of Belarus No. 99-Z of 7 May 2021 \"On Personal Data Protection\"",
   "jurisdictions": ["BY"],
-  "letterLangs": ["en", "ru"],
+  "letterLangs": ["en", "ru", "be"],
   "deadline": {
     "days": 15,
     "text": "Information about the processing of your data: 5 working days. Correction of data, termination of processing or deletion, and withdrawal of consent: 15 calendar days. Information about disclosure to third parties: 15 calendar days (free once per calendar year). These periods were taken from a secondary source and not from the official text.",
@@ -17,31 +17,35 @@
   },
   "types": {
     "access": {
-      "cite": { "en": "Article 11 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 11 Закона Республики Беларусь «О защите персональных данных»" },
+      "cite": { "en": "Article 11 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 11 Закона Республики Беларусь «О защите персональных данных»", "be": "арт. 11 Закона Рэспублікі Беларусь «Аб абароне персанальных даных»" },
       "text": {
         "en": "Please confirm whether you process my personal data and provide me with the information about the processing, including the data processed, its source, the purposes and the legal basis of the processing, and the retention period.",
-        "ru": "Прошу подтвердить, обрабатываются ли мои персональные данные, и предоставить информацию, касающуюся их обработки: наименование и место нахождения оператора, перечень данных, источник получения, правовые основания и цели обработки, срок, на который дано согласие."
+        "ru": "Прошу подтвердить, обрабатываются ли мои персональные данные, и предоставить информацию, касающуюся их обработки: наименование и место нахождения оператора, перечень данных, источник получения, правовые основания и цели обработки, срок, на который дано согласие.",
+        "be": "Прашу пацвердзіць, ці апрацоўваюцца мае персанальныя даныя, і даць інфармацыю, якая датычыцца іх апрацоўкі: найменне і месцазнаходжанне аператара, пералік даных, крыніцу атрымання, прававыя падставы і мэты апрацоўкі, тэрмін, на які дадзена згода."
       }
     },
     "rectification": {
-      "cite": { "en": "Article 11 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 11 Закона Республики Беларусь «О защите персональных данных»" },
+      "cite": { "en": "Article 11 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 11 Закона Республики Беларусь «О защите персональных данных»", "be": "арт. 11 Закона Рэспублікі Беларусь «Аб абароне персанальных даных»" },
       "text": {
         "en": "Please correct my personal data that you hold, because it is incomplete, outdated or inaccurate, as specified in this request, and notify me once the changes have been made.",
-        "ru": "Прошу внести изменения в мои персональные данные, поскольку они являются неполными, устаревшими или неточными, в соответствии с настоящим заявлением, и уведомить меня о внесённых изменениях."
+        "ru": "Прошу внести изменения в мои персональные данные, поскольку они являются неполными, устаревшими или неточными, в соответствии с настоящим заявлением, и уведомить меня о внесённых изменениях.",
+        "be": "Прашу ўнесці змяненні ў мае персанальныя даныя, паколькі яны з'яўляюцца няпоўнымі, састарэлымі або недакладнымі, у адпаведнасці з гэтай заявай, і паведаміць мне аб унесеных змяненнях."
       }
     },
     "erasure": {
-      "cite": { "en": "Article 13 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 13 Закона Республики Беларусь «О защите персональных данных»" },
+      "cite": { "en": "Article 13 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 13 Закона Республики Беларусь «О защите персональных данных»", "be": "арт. 13 Закона Рэспублікі Беларусь «Аб абароне персанальных даных»" },
       "text": {
         "en": "I request that you stop processing my personal data and delete it, and notify me in writing once this has been done. If deletion is technically impossible, please block the data and inform me of the measures taken.",
-        "ru": "Прошу прекратить обработку моих персональных данных и удалить их, а также уведомить меня об этом. Если удаление технически невозможно, прошу заблокировать данные и сообщить мне о принятых мерах."
+        "ru": "Прошу прекратить обработку моих персональных данных и удалить их, а также уведомить меня об этом. Если удаление технически невозможно, прошу заблокировать данные и сообщить мне о принятых мерах.",
+        "be": "Прашу спыніць апрацоўку маіх персанальных даных і выдаліць іх, а таксама паведаміць мне аб гэтым. Калі выдаленне тэхнічна немагчыма, прашу заблакіраваць даныя і паведаміць мне аб прынятых мерах."
       }
     },
     "withdraw": {
-      "cite": { "en": "Article 10 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 10 Закона Республики Беларусь «О защите персональных данных»" },
+      "cite": { "en": "Article 10 of the Law of the Republic of Belarus \"On Personal Data Protection\"", "ru": "ст. 10 Закона Республики Беларусь «О защите персональных данных»", "be": "арт. 10 Закона Рэспублікі Беларусь «Аб абароне персанальных даных»" },
       "text": {
         "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing based on this consent, delete my data where no other legal ground applies, and confirm this to me.",
-        "ru": "Настоящим отзываю своё согласие на обработку персональных данных. Прошу прекратить обработку, основанную на этом согласии, удалить мои данные при отсутствии иных правовых оснований и уведомить меня об этом."
+        "ru": "Настоящим отзываю своё согласие на обработку персональных данных. Прошу прекратить обработку, основанную на этом согласии, удалить мои данные при отсутствии иных правовых оснований и уведомить меня об этом.",
+        "be": "Гэтым адклікаю сваю згоду на апрацоўку персанальных даных. Прашу спыніць апрацоўку, заснаваную на гэтай згодзе, выдаліць мае даныя пры адсутнасці іншых прававых падстаў і паведаміць мне аб гэтым."
       }
     }
   },

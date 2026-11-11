@@ -3,7 +3,7 @@
   "name": "APPI (Japan)",
   "law": "Act on the Protection of Personal Information (Act No. 57 of 2003, as amended)",
   "jurisdictions": ["JP"],
-  "letterLangs": ["en"],
+  "letterLangs": ["en", "ja"],
   "deadline": {
     "days": null,
     "text": "The Act sets no fixed number of days: the business must respond \"without delay\". Before suing, a person must generally first make a request and wait two weeks from its arrival (Art. 39). The business may charge a reasonable fee for disclosure (Art. 38) and may specify a request procedure (Art. 37).",
@@ -17,16 +17,34 @@
   },
   "types": {
     "access": {
-      "cite": { "en": "Article 33 of the Act on the Protection of Personal Information" },
-      "text": { "en": "Please disclose the retained personal data that identifies me, in electronic form if possible. If you decide not to disclose any part of it, or if the data does not exist, please notify me without delay and state the reason." }
+      "cite": {
+        "en": "Article 33 of the Act on the Protection of Personal Information",
+        "ja": "個人情報の保護に関する法律第33条"
+      },
+      "text": {
+        "en": "Please disclose the retained personal data that identifies me, in electronic form if possible. If you decide not to disclose any part of it, or if the data does not exist, please notify me without delay and state the reason.",
+        "ja": "私を本人として識別できる保有個人データの開示（電磁的記録の提供による方法を含む）を請求します。なお、全部または一部を開示しない旨を決定した場合、または当該保有個人データが存在しない場合は、遅滞なくその旨および理由を通知してください。"
+      }
     },
     "rectification": {
-      "cite": { "en": "Article 34 of the Act on the Protection of Personal Information" },
-      "text": { "en": "The retained personal data about me is not factual. Please investigate without delay, correct, add to or delete the data as specified in this request, and notify me of the result." }
+      "cite": {
+        "en": "Article 34 of the Act on the Protection of Personal Information",
+        "ja": "個人情報の保護に関する法律第34条"
+      },
+      "text": {
+        "en": "The retained personal data about me is not factual. Please investigate without delay, correct, add to or delete the data as specified in this request, and notify me of the result.",
+        "ja": "保有個人データの内容が事実と異なるため、遅滞なく必要な調査を行い、本請求記載のとおり訂正、追加または削除を行い、その結果を通知してください。"
+      }
     },
     "erasure": {
-      "cite": { "en": "Article 35 of the Act on the Protection of Personal Information" },
-      "text": { "en": "Please cease using, or delete, the retained personal data about me on the grounds stated in this request. Please notify me without delay of your decision, and of the reasons if you decline all or part of it." }
+      "cite": {
+        "en": "Article 35 of the Act on the Protection of Personal Information",
+        "ja": "個人情報の保護に関する法律第35条"
+      },
+      "text": {
+        "en": "Please cease using, or delete, the retained personal data about me on the grounds stated in this request. Please notify me without delay of your decision, and of the reasons if you decline all or part of it.",
+        "ja": "本請求に記載の事由に基づき、私を本人として識別できる保有個人データの利用の停止または消去を請求します。措置の実施または応じられない場合の理由について、遅滞なく通知してください。"
+      }
     }
   },
   "sources": [

@@ -3,7 +3,7 @@
   "name": "Swiss FADP",
   "law": "Federal Act on Data Protection (FADP) of 25 September 2020, SR 235.1, in force since 1 September 2023",
   "jurisdictions": ["CH"],
-  "letterLangs": ["en"],
+  "letterLangs": ["en", "de", "fr"],
   "deadline": {
     "days": 30,
     "text": "In general within 30 days of receipt of the request. If the information cannot be provided within 30 days, the controller must tell you by when it will be provided. Information is generally free of charge.",
@@ -17,33 +17,63 @@
   },
   "types": {
     "access": {
-      "cite": { "en": "Article 25 of the Swiss Federal Act on Data Protection (FADP)" },
+      "cite": {
+        "en": "Article 25 of the Swiss Federal Act on Data Protection (FADP)",
+        "de": "Artikel 25 des Bundesgesetzes über den Datenschutz (DSG)",
+        "fr": "Article 25 de la loi fédérale sur la protection des données (LPD)"
+      },
       "text": {
-        "en": "Please confirm whether you process personal data about me and provide me with the information required to exercise my rights under the FADP, including the personal data processed, the purpose of the processing, the retention period, the origin of the data and the recipients."
+        "en": "Please confirm whether you process personal data about me and provide me with the information required to exercise my rights under the FADP, including the personal data processed, the purpose of the processing, the retention period, the origin of the data and the recipients.",
+        "de": "Bitte bestätigen Sie mir, ob Sie personenbezogene Daten über mich bearbeiten, und erteilen Sie mir die Auskünfte, die erforderlich sind, damit ich meine Rechte nach dem DSG geltend machen kann, einschließlich der bearbeiteten Daten, des Bearbeitungszwecks, der Aufbewahrungsdauer, der Herkunft und allfälliger Empfänger.",
+        "fr": "Veuillez me confirmer si des données personnelles me concernant sont traitées et me fournir les informations nécessaires pour faire valoir mes droits selon la LPD, notamment les données traitées, la finalité du traitement, la durée de conservation, l'origine des données et les destinataires éventuels."
       }
     },
     "rectification": {
-      "cite": { "en": "Article 32(1) of the Swiss Federal Act on Data Protection (FADP)" },
+      "cite": {
+        "en": "Article 32(1) of the Swiss Federal Act on Data Protection (FADP)",
+        "de": "Artikel 32 Absatz 1 des Bundesgesetzes über den Datenschutz (DSG)",
+        "fr": "Article 32 alinéa 1 de la loi fédérale sur la protection des données (LPD)"
+      },
       "text": {
-        "en": "Please correct the inaccurate personal data you hold about me, as specified in this request, and notify me in writing once this has been done. Where the accuracy cannot be established, please mark the data as disputed."
+        "en": "Please correct the inaccurate personal data you hold about me, as specified in this request, and notify me in writing once this has been done. Where the accuracy cannot be established, please mark the data as disputed.",
+        "de": "Bitte berichtigen Sie die unrichtigen Personendaten, die Sie über mich bearbeiten, wie in diesem Gesuch angegeben, und bestätigen Sie mir die Berichtigung schriftlich. Lässt sich weder die Richtigkeit noch die Unrichtigkeit beweisen, bitte ich um Anbringung eines Bestreitungsvermerks.",
+        "fr": "Veuillez rectifier les données personnelles inexactes me concernant, comme indiqué dans la présente demande, et me confirmer cette rectification par écrit. Si l'exactitude ou l'inexactitude ne peut être établie, je vous demande d'ajouter une mention du caractère litigieux."
       }
     },
     "erasure": {
-      "cite": { "en": "Article 32(2) of the Swiss Federal Act on Data Protection (FADP), in conjunction with Articles 28 to 28l of the Swiss Civil Code" },
+      "cite": {
+        "en": "Article 32(2) of the Swiss Federal Act on Data Protection (FADP), in conjunction with Articles 28 to 28l of the Swiss Civil Code",
+        "de": "Artikel 32 Absatz 2 des Bundesgesetzes über den Datenschutz (DSG) in Verbindung mit Artikeln 28 bis 28l des Zivilgesetzbuches (ZGB)",
+        "fr": "Article 32 alinéa 2 de la loi fédérale sur la protection des données (LPD) en relation avec les articles 28 à 28l du Code civil suisse (CC)"
+      },
       "text": {
-        "en": "Please delete or destroy the personal data you hold about me and stop disclosing it to third parties, and confirm in writing once this has been done."
+        "en": "Please delete or destroy the personal data you hold about me and stop disclosing it to third parties, and confirm in writing once this has been done.",
+        "de": "Bitte löschen oder vernichten Sie die Personendaten, die Sie über mich bearbeiten, und unterlassen Sie die Bekanntgabe an Dritte. Bitte bestätigen Sie mir die Löschung schriftlich.",
+        "fr": "Veuillez supprimer ou détruire les données personnelles que vous détenez à mon sujet et cesser de les communiquer à des tiers. Je vous prie de me confirmer cette suppression par écrit."
       }
     },
     "portability": {
-      "cite": { "en": "Article 28 of the Swiss Federal Act on Data Protection (FADP)" },
+      "cite": {
+        "en": "Article 28 of the Swiss Federal Act on Data Protection (FADP)",
+        "de": "Artikel 28 des Bundesgesetzes über den Datenschutz (DSG)",
+        "fr": "Article 28 de la loi fédérale sur la protection des données (LPD)"
+      },
       "text": {
-        "en": "Please provide the personal data I have disclosed to you, and that you process automatically on the basis of my consent or a contract, in a conventional electronic format. Where this does not require disproportionate effort, please transfer it to the controller I designate."
+        "en": "Please provide the personal data I have disclosed to you, and that you process automatically on the basis of my consent or a contract, in a conventional electronic format. Where this does not require disproportionate effort, please transfer it to the controller I designate.",
+        "de": "Bitte stellen Sie mir die Personendaten, die ich Ihnen bekanntgegeben habe und die Sie automatisiert aufgrund einer Einwilligung oder eines Vertrags bearbeiten, in einem gängigen elektronischen Format heraus oder übertragen Sie diese, soweit dies keinen unverhältnismässigen Aufwand erfordert, an den von mir bezeichneten Verantwortlichen.",
+        "fr": "Veuillez me délivrer les données personnelles que je vous ai transmises et que vous traitez de manière automatisée sur la base de mon consentement ou d'un contrat, dans un format électronique couramment utilisé, ou les transmettre au responsable que je désigne dans la mesure où cela n'exige pas des efforts disproportionnés."
       }
     },
     "objection": {
-      "cite": { "en": "Articles 30(2)(b) and 32(2) of the Swiss Federal Act on Data Protection (FADP)" },
+      "cite": {
+        "en": "Articles 30(2)(b) and 32(2) of the Swiss Federal Act on Data Protection (FADP)",
+        "de": "Artikel 30 Absatz 2 Buchstabe b und Artikel 32 Absatz 2 des Bundesgesetzes über den Datenschutz (DSG)",
+        "fr": "Articles 30 alinéa 2 lettre b et 32 alinéa 2 de la loi fédérale sur la protection des données (LPD)"
+      },
       "text": {
-        "en": "I expressly object to the processing of my personal data for the purposes specified in this request. Please stop this processing and not disclose my data to third parties, and confirm this in writing."
+        "en": "I expressly object to the processing of my personal data for the purposes specified in this request. Please stop this processing and not disclose my data to third parties, and confirm this in writing.",
+        "de": "Ich widerspreche ausdrücklich der Bearbeitung meiner Personendaten für die in diesem Antrag genannten Zwecke. Bitte stellen Sie diese Bearbeitung unverzüglich ein, geben Sie die Daten nicht an Dritte weiter und bestätigen Sie dies schriftlich.",
+        "fr": "Je m'oppose expressément au traitement de mes données personnelles pour les finalités indiquées dans la présente demande. Veuillez cesser ce traitement, ne pas communiquer mes données à des tiers et m'en donner confirmation écrite."
       }
     }
   },

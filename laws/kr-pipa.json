@@ -6,7 +6,8 @@
     "KR"
   ],
   "letterLangs": [
-    "en"
+    "en",
+    "ko"
   ],
   "deadline": {
     "days": null,
@@ -22,50 +23,62 @@
   "types": {
     "access": {
       "cite": {
-        "en": "Article 35 of the Personal Information Protection Act"
+        "en": "Article 35 of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제35조"
       },
       "text": {
-        "en": "Please confirm whether you process my personal information and provide me with access to it, including the items processed, the purposes, and any third parties to whom it has been provided."
+        "en": "Please confirm whether you process my personal information and provide me with access to it, including the items processed, the purposes, and any third parties to whom it has been provided.",
+        "ko": "본인의 개인정보에 대한 열람을 요구합니다. 처리 중인 개인정보의 항목, 처리 목적, 제3자 제공 현황 등을 확인하여 주시고, 열람할 수 있도록 조치하여 주시기 바랍니다."
       }
     },
     "portability": {
       "cite": {
-        "en": "Article 35-2 of the Personal Information Protection Act"
+        "en": "Article 35-2 of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제35조의2"
       },
       "text": {
-        "en": "Please transmit to me, in a form processable by a computer or other information processing device, the personal information concerning me that you process on the basis of my consent or a contract, to the extent technically feasible and reasonable."
+        "en": "Please transmit to me, in a form processable by a computer or other information processing device, the personal information concerning me that you process on the basis of my consent or a contract, to the extent technically feasible and reasonable.",
+        "ko": "동의 또는 계약에 따라 처리되는 본인의 개인정보를 컴퓨터 등 정보처리장치로 처리가 가능한 형태로 본인 또는 본인이 지정한 제3자에게 전송해 주시기 바랍니다."
       }
     },
     "rectification": {
       "cite": {
-        "en": "Article 36 of the Personal Information Protection Act"
+        "en": "Article 36 of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제36조"
       },
       "text": {
-        "en": "Please investigate and correct without delay the inaccurate personal information of mine that you hold, as specified in this request, and notify me of the result."
+        "en": "Please investigate and correct without delay the inaccurate personal information of mine that you hold, as specified in this request, and notify me of the result.",
+        "ko": "귀사에서 보유하고 있는 본인의 개인정보에 사실과 다른 부분이 있으므로, 지체 없이 조사하여 정정해 주시고 그 조치 결과를 통지하여 주시기 바랍니다."
       }
     },
     "erasure": {
       "cite": {
-        "en": "Article 36 of the Personal Information Protection Act"
+        "en": "Article 36 of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제36조"
       },
       "text": {
-        "en": "Please erase without delay the personal information of mine that you hold, take measures to prevent its recovery, and notify me of the result. If you refuse, please state the reason."
+        "en": "Please erase without delay the personal information of mine that you hold, take measures to prevent its recovery, and notify me of the result. If you refuse, please state the reason.",
+        "ko": "귀사에서 보유하고 있는 본인의 개인정보를 지체 없이 삭제 및 파기하여 복구할 수 없도록 조치해 주시고, 그 결과를 통지하여 주시기 바랍니다. 삭제를 거절하는 경우 그 법적 사유를 알려주시기 바랍니다."
       }
     },
     "objection": {
       "cite": {
-        "en": "Article 37 of the Personal Information Protection Act"
+        "en": "Article 37 of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제37조"
       },
       "text": {
-        "en": "I request that you suspend the processing of my personal information, in whole or in part, without delay. If you refuse, please notify me of the reasons."
+        "en": "I request that you suspend the processing of my personal information, in whole or in part, without delay. If you refuse, please notify me of the reasons.",
+        "ko": "본인의 개인정보 처리의 전부 또는 일부를 지체 없이 정지해 주실 것을 요구합니다. 처리를 거절할 정당한 사유가 있는 경우에는 지체 없이 그 사유를 통지하여 주시기 바랍니다."
       }
     },
     "withdraw": {
       "cite": {
-        "en": "Article 37(1) of the Personal Information Protection Act"
+        "en": "Article 37(1) of the Personal Information Protection Act",
+        "ko": "개인정보 보호법 제37조제1항"
       },
       "text": {
-        "en": "I hereby withdraw my consent to the processing of my personal information. Please take the necessary measures without delay, such as destroying the data so that it cannot be recovered, and notify me of the result."
+        "en": "I hereby withdraw my consent to the processing of my personal information. Please take the necessary measures without delay, such as destroying the data so that it cannot be recovered, and notify me of the result.",
+        "ko": "본인의 개인정보 처리에 대해 기존에 부여하였던 동의를 철회합니다. 해당 동의에 기반한 개인정보 처리를 즉시 중단하고 지체 없이 파기 조치한 후 그 결과를 알려주시기 바랍니다."
       }
     }
   },

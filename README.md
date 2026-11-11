@@ -34,12 +34,10 @@ Open `templates/`, choose your region and action (e.g. **erasure under GDPR Art.
 
 ```text
 opt-out/
-├── templates/
-│   ├── global/   # general privacy templates
-│   ├── eu/       # GDPR: erasure, access, portability
-│   └── local/    # country-specific equivalents
-├── src/          # generator core and UI
-└── tests/        # template and form validation
+├── laws/       # JSON datasets for privacy laws across jurisdictions
+├── schema/     # JSON Schema definitions (law.schema.json)
+├── scripts/    # validation, build, and test scripts
+└── web/        # static web generator UI and letter assembly
 ```
 
 ## Contributing

@@ -6,7 +6,8 @@
     "AM"
   ],
   "letterLangs": [
-    "en"
+    "en",
+    "hy"
   ],
   "deadline": {
     "days": null,
@@ -22,34 +23,42 @@
   "types": {
     "access": {
       "cite": {
-        "en": "Article 15 of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+        "en": "Article 15 of the Law of the Republic of Armenia \"On Protection of Personal Data\"",
+        "hy": "«Անձնական տվյալների պաշտպանության մասին» ՀՀ օրենքի 15-րդ հոդված"
       },
       "text": {
-        "en": "I request information on the processing of my personal data, including the legal basis, purposes, the processor, the recipients, the source of the data and the retention period, and access to the data you hold about me."
+        "en": "I request information on the processing of my personal data, including the legal basis, purposes, the processor, the recipients, the source of the data and the retention period, and access to the data you hold about me.",
+        "hy": "Խնդրում եմ տրամադրել տեղեկություններ իմ անձնական տվյալների մշակման, այդ թվում՝ մշակման իրավական հիմքերի, նպատակների, մշակողի, ստացողների, տվյալների աղբյուրի և պահպանման ժամկետների վերաբերյալ, ինչպես նաև ապահովել հասանելիություն իմ անձնական տվյալներին:"
       }
     },
     "rectification": {
       "cite": {
-        "en": "Article 15(2) of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+        "en": "Article 15(2) of the Law of the Republic of Armenia \"On Protection of Personal Data\"",
+        "hy": "«Անձնական տվյալների պաշտպանության մասին» ՀՀ օրենքի 15-րդ հոդվածի 2-րդ մաս"
       },
       "text": {
-        "en": "I request that you rectify, complete or update the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and notify me in writing once this has been done."
+        "en": "I request that you rectify, complete or update the incomplete, inaccurate or outdated personal data you hold about me, as specified in this request, and notify me in writing once this has been done.",
+        "hy": "Խնդրում եմ ուղղել, լրացնել կամ թարմացնել իմ վերաբերյալ առկա ոչ ամբողջական, ոչ ճշգրիտ կամ հնացած անձնական տվյալները՝ սույն դիմումին համապատասխան, և գրավոր տեղեկացնել ինձ կատարված փոփոխությունների մասին:"
       }
     },
     "erasure": {
       "cite": {
-        "en": "Articles 15(2) and 21 of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+        "en": "Articles 15(2) and 21 of the Law of the Republic of Armenia \"On Protection of Personal Data\"",
+        "hy": "«Անձնական տվյալների պաշտպանության մասին» ՀՀ օրենքի 15-րդ հոդվածի 2-րդ մաս և 21-րդ հոդված"
       },
       "text": {
-        "en": "I request the blocking and destruction of my personal data, which is unlawfully obtained or no longer necessary for the purposes of processing, and written confirmation once this has been done."
+        "en": "I request the blocking and destruction of my personal data, which is unlawfully obtained or no longer necessary for the purposes of processing, and written confirmation once this has been done.",
+        "hy": "Խնդրում եմ կասեցնել և ոչնչացնել իմ անձնական տվյալները, որոնք ձեռք են բերվել անօրինական ճանապարհով կամ այլևս անհրաժեշտ չեն մշակման նպատակների համար, ինչպես նաև գրավոր հաստատել տվյալների ոչնչացումը:"
       }
     },
     "withdraw": {
       "cite": {
-        "en": "Articles 9(3) and 21(6) of the Law of the Republic of Armenia \"On Protection of Personal Data\""
+        "en": "Articles 9(3) and 21(6) of the Law of the Republic of Armenia \"On Protection of Personal Data\"",
+        "hy": "«Անձնական տվյալների պաշտպանության մասին» ՀՀ օրենքի 9-րդ հոդվածի 3-րդ մաս և 21-րդ հոդվածի 6-րդ մաս"
       },
       "text": {
-        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing and destroy my data within the period provided by law, and notify me in writing."
+        "en": "I hereby withdraw my consent to the processing of my personal data. Please stop processing and destroy my data within the period provided by law, and notify me in writing.",
+        "hy": "Սույնով հետ եմ կանչում իմ անձնական տվյալների մշակման համաձայնությունը: Խնդրում եմ դադարեցնել տվյալների մշակումը և ոչնչացնել դրանք օրենքով սահմանված ժամկետում՝ գրավոր տեղեկացնելով ինձ այդ մասին:"
       }
     }
   },
